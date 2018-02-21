@@ -1,4 +1,4 @@
-@media screen and (min-device-width: 650px) {
+@media screen and (min-width: 650px) {
 	.top-nav ul {
 		display: flex;
 		justify-content: center;
@@ -45,7 +45,7 @@
 
 }
 
-@media screen and (min-device-width: 1000px) {
+@media screen and (min-width: 1000px) {
 	nav {
 		display: grid;
 	}
