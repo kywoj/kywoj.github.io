@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Employment Application Form</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/mycss.css" rel="stylesheet">
+		<link href="css/bootstrap-formhelpers.css" rel="stylesheet">
+		<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter">
+			<meta charset="UTF-8">
+	<style>
+	#title {
+		font-family: 'Merriweather';
+	}
+	body{
+		background-color: lightgrey;
+		margin-left: 20px;
+	}
+	h4 {
+		font-family: 'Merriweather';
+	color:red;
+	}
+
+	legend {
+		font-family: 'Merriweather';
+		font-size: 16px;
+	}
+
+	label {
+		font-family: 'Bitter';
+	color:black;
+	}
+	button{
+		margin-left: 20px;
+	}
+	</style>
+	</head>
+
+	<body>
+		<h2 id="title"> Your Dream Job Starts Here... </h2>
+		<form name="application" class="pure-form pure-form-aligned" action="" method="post">
+      <h4><u>Basic Information</u></h4>
+   			<div>
+<!-- Content -->
+				<fieldset>
+					<legend>Account Information:</legend>
+						<div class="pure-control-group">
+							<label for="fname"> First name:</label><input type="text" name="fname" autofocus><br>
+				  		<label for="lname"> Last name:</label><input type="text" name="lname"><br>
+				  		<label for="email"> Email: </label><input type="email" name="email" placeholder = "iyad@umich.edu"><br>
+				  		<label for="password1"> Password: </label><input type="password" name="password1"><br>
+				  		<label for="password2"> Confirm Password: </label><input type="password" name="password2" onchange="validatePass(this)"><br>
+						</div>
+					</fieldset>
+
+					<fieldset>
+						<legend>Contact Information:</legend>
+							<div class="pure-control-group">
+								<label for="phone">Phone number:</label><input type="text" class="bfh-phone" data-format="+1 (ddd) ddd-dddd"><br>
+								<label>Citizenship: </label><select id="country" class="bfh-countries" data-country="US"></select><br>
+								<label> Address: </label><input type="text" id="address" name="address" size="50" placeholder = "1234 N Wells St"><br>
+								<label> City: </label><input type="text" name="city"  placeholder = "Ann Arbor"><br>
+								<label> State: </label><input type="text" name="state"  placeholder = "MI"><br>
+								<label> Zip Code: </label><input type="text" name="Zip code"  placeholder = "48108"><br>
+							</div>
+					</fieldset>
+
+	 <h4><u>Education and Work Experience</u></h4>
+	 		<fieldset>
+		  	<legend>Educational Information:</legend>
+					<div id="education" class="pure-control-group">
+					  <label>Degree:
+					  </label><select name="degree">
+							<option value="High school">High school</option>
+							<option value="BS">B.S</option>
+							<option value="BA">B.A</option>
+							<option value="Meng">M.Eng</option>
+							<option value="MA">M.A</option>
+							<option value="MS">M.S</option>
+							<option value="PhD">PhD</option>
+					  </select><br>
+		  			<label> Institution name: </label><input type="text" name="inst_name" placeholder = "University of Michigan"><br>
+						<label> Major: </label><input type="text" name="Major" placeholder = "Information Systems"><br>
+						<label> GPA: </label><input type="number" step="any" name="GPA" min="0" max="4"> /4.0<br>
+					</div>
+
+					<button id="addDegree"> Add degree </button>
+				</div>
+			</fieldset>
+
+			<fieldset>
+				<legend>Work Experience:</legend>
+					<div id="work" class="pure-control-group">
+						<label>Company Name: </label><input type="text" name="name" placeholder="Google"><br>
+						<label>Job Title: </label><input type="text" name="title" placeholder="Software Engineer"><br>
+						<label>Join Date: </label><input type="date" name="joindate"><br>
+						<label>End Date: </label><input type="date" name="enddate"><br>
+
+					</div>
+				<!-- Can automatically populate the duration using Javascript -->
+				<button id="addWork">Add Employer</button>
+			</fieldset>
+			<br>
+
+      </div>
+
+      <div>
+
+			<h4><u>Position</u></h4>
+  		<fieldset>
+				<legend>Type of Work:</legend>
+				<div class="pure-control-group">
+				<label>Internship</label><input type="checkbox" name="position" id="intern" value="internship"><br>
+				<label>Full-time</label><input type="checkbox" name="position" value="full-time"><br>
+				<label>Part-time</label><input type="checkbox" name="position" value="part-time"><br>
+			</div>
+			</fieldset>
+			<!-- Resume ( ) and cover letter (optional) -->
+
+			<fieldset>
+			<legend>Resume and Cover Letter:</legend>
+				<div class="pure-control-group">
+					<label>Upload Resume: </label><input type="file" name="resume" accept="application/pdf"  ><br>
+					<label>Upload Cover Letter: </label><input type="file" name="coverletter" accept="application/pdf"><br>
+				</div>
+			</fieldset>
+
+			<fieldset>
+			<legend>Position:</legend>
+			<div class="pure-control-group">
+				<label>Position:</label
+						><select name="position">
+							<optgroup label="Information Technology">
+								<option value="Network Engineer">Network Engineer</option>
+							</optgroup>
+							<optgroup label="Finance">
+								<option value="Financial Analyst">Financial Analyst</option>
+							</optgroup>
+							<optgroup label="Software Development">
+								<option value="Project Manager">Project Manager</option>
+							</optgroup>
+							<optgroup label="Legal">
+								<option value="Attorney">Attorney</option>
+							</optgroup>
+							<optgroup label="Human Resources">
+								<option value="Coordinator">Coordinator</option>
+							</optgroup>
+							<optgroup label="Research">
+								<option value="Research Associate">Research Associate</option>
+							</optgroup>
+							<optgroup label="Transport">
+								<option value="Driver">Driver</option>
+							</optgroup>
+						</select><br>
+
+			<label>Office Location:</label
+					><input list="locations" name="locations">
+						<datalist id="locations">
+							<option value="New York">
+							<option value="San Francisco">
+							<option value="Detroit">
+							<option value="Ann Arbor">
+							<option value="Chicago">
+							<option value="Pittsburgh">
+						</datalist><br>
+
+			<label>Start Date: </label><input type="date" name="startdate"><br>
+			<label>Expected Salary: </label> $ <input type="range" name="salary" min="40" max="200" step="5" value="100" onchange="updateSalary(this)"><br>
+			<label>Website / Portfolio: </label><input type="url" name="website" placeholder="www.mywebsite.com"><br>
+
+			</fieldset>
+			<br>
+      </div>
+
+	<input type="submit" value = "Apply">
+
+	</form>
+
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-formhelpers.min.js"></script>
+
+	</body>
+</html>
