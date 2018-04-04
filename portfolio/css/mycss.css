@@ -1,0 +1,133 @@
+h1 {
+	font-size: 45px;
+}
+
+h1, p, div, li, .overlay {
+	font-family: 'Merriweather';
+    color: #444444;
+}
+
+/*nav div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24%;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}*/
+
+nav {
+ background: #444;
+ width: 100%;
+}
+nav ul {
+ padding: 0;
+ margin: 0;
+}
+
+nav ul li {
+ display: inline-block;
+ list-style-type: none;
+ margin: 0;
+ padding: 12px 0;
+}
+
+nav ul li:hover {
+ background-color: #5C80BC;
+}
+
+.active {
+    background: #5C80BC;
+}
+
+nav ul li a {
+ color: #fff;
+ text-decoration: none;
+ padding: 12px;
+}
+ nav ul li a:hover {
+ color: #fff;
+ text-decoration: none;
+}
+
+footer {
+ 	text-align: center;
+}
+
+.icons {
+    display: inline-block;
+
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 2% 96% 2%;
+}
+
+.fp-portfolio {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+
+a {
+    color: #1430CC;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; ;
+}
+a:focus {
+    color: #2574A9;
+    text-decoration: underline
+}
+a:active {
+    color: #2574A9 ;
+}
+
+.contain {
+  position: relative;
+  border: 1px black solid;
+  height: 200px;
+}
+
+.contain img {
+    object-fit: cover;
+
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #5C80BC;
+}
+
+.contain:hover .overlay {
+  opacity: 0.9;
+}
+
+.overlay {
+  color: white;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 150px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+
+

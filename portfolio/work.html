@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="./css/mycss.css" rel="stylesheet">
+		<link href="./css/mix.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i" rel="stylesheet">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>Ky Wojciechowski Portfolio</title>
+	</head>
+	<body>
+	<header></header>
+	<nav>
+		<ul>
+			<li><a href="./index.html">HOME</a></li>
+			<li><a class="active"  href="./work.html">WORK</a></li>
+			<li><a href="./cv.html">CV</a></li>
+			<li><a href="./about.html">ABOUT</a></li>
+		</ul>
+	</nav>
+	<div class="main">
+		<div></div>
+		<div class="intro">
+		<h1>Work</h1>
+
+		<p>Use the buttons below to filter my work by the categories of research, design, or writing.</p>
+
+		<div class="controls">
+            <button type="button" data-filter="all">All</button>
+            <button type="button" data-filter=".research">#Research</button>
+            <button type="button" data-filter=".design">#Design</button>
+            <button type="button" data-filter=".writing">#Writing</button>
+        </div>
+
+        <div class="container">
+        	    <div class="mix research img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Affinity Diagram</span></div>
+        	    <div class="mix research img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Customer Journey Maps</span></div>
+               <div class="mix writing img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Design Assessment</span></div>
+                <div class="mix design img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Design Prototype</span></div>               
+                <div class="mix research img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Honors Thesis Study</span></div>                
+                <div class="mix research img-wrapper"><img class="fit" src="./Sketches/IMG_8946.JPG.jpeg"/><span class="caption">Information Flow Diagram</span></div>
+                 <div class="mix design img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">MLA Citation  Reference</span></div>
+                <div class="mix design img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Newspaper Style Guide</span></div>
+                <div class="mix writing img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Research Essay</span></div>
+				<div class="mix writing img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Technical Description</span></div>
+            </div>
+
+        <script src="./js/mixitup.min.js"></script>
+
+        <script>
+            var containerEl = document.querySelector('.container');
+            var mixer = mixitup(containerEl, {
+                animation: {
+                    animateResizeContainer: false // required to prevent column algorithm bug
+                }
+            });
+            // NB: See comments in stylesheet regarding fixes for chrome and safari "flickering"
+        </script>
+
+		</div>
+	</div>
+
+	<footer>
+		<hr>
+		<div class="icons">
+		<a href="mailto:kyliewojciechowski@gmail.com"><img src="./images/email.png" alt="" width="10%"/></a>
+		<a href="https://www.linkedin.com/in/kyliewojciechowski/"><img src="./images/linkedin.png" alt="" width="10%"/></a>
+		<a href="https://github.com/kywoj"><img src="./images/github.png" alt="" width="10%"/></a>
+		<a href="https://twitter.com/whrsyrhousekey"><img src="./images/twitter.png" alt="" width="10%"/></a>
+		<div>
+	</footer>
+
+
+
+	</body>
+</html>

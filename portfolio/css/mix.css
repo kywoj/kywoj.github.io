@@ -1,0 +1,165 @@
+html,
+body {
+    height: 100%;
+    background: #f2f2f2;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+button {
+    border: 1px black solid;
+    color: black;
+    background-color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Merriweather;
+    margin: 5px;
+}
+
+/* Controls
+---------------------------------------------------------------------- */
+
+.controls {
+    padding: 0rem;
+    background: #ffffff;
+    font-size: 0.1px;
+}
+
+
+.control:hover {
+    background: #3f3f3f;
+}
+
+.control[data-sort]:after {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-top: 2px solid;
+    border-left: 2px solid;
+    top: calc(50% - 6px);
+    left: calc(50% - 6px);
+    transform:  translateY(1px) rotate(45deg);
+}
+
+.control[data-sort*=":desc"]:after {
+    transform:  translateY(-4px) rotate(-135deg);
+}
+
+.mixitup-control-active {
+    background: #ffffff;
+}
+
+.control[data-filter] + .control[data-sort] {
+    margin-left: .75rem;
+}
+
+.control[data-filter=".research"] {
+    color: #3232CC;
+}
+
+.control[data-filter=".writing"] {
+    color: #C6E2FF;
+}
+
+.control[data-filter=".design"] {
+    color: #1E90FF;
+}
+
+
+/* Container
+---------------------------------------------------------------------- */
+
+.container {
+    padding: 1rem;
+
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+}
+
+.container:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.container .img-wrapper {
+  display: inline-block;
+  position: relative;
+}
+.container .img-wrapper > img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.container .img-wrapper > .caption {
+  color: black;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+/* Target Elements
+---------------------------------------------------------------------- */
+
+.mix {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    background: #fff;
+    border-top: .5rem solid currentColor;
+    border-radius: 2px;
+    margin-bottom: 1rem;
+    position: relative;
+
+    backface-visibility: hidden; /* prevents flicker in chrome */
+    will-change: transform, opacity; /* prevents flicker in safari */
+}
+
+.mix:before {
+    content: '';
+    display: inline-block;
+    padding-top: 56.25%;
+}
+
+.mix.research {
+    color: #3232CC;
+}
+
+.mix.writing {
+    color: #C6E2FF;
+}
+
+.mix.design {
+    color: #1E90FF;
+}
+
+
+/* Grid Breakpoints
+---------------------------------------------------------------------- */
+
+/* 2 Columns */
+
+@media screen and (min-width: 480px) {
+    .container {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+}
+
+/* 5 Columns */
+
+@media screen and (min-width: 1024px) {
+    .container {
+        -webkit-column-count: 5;
+        -moz-column-count: 5;
+        column-count: 5;
+    }
+}
