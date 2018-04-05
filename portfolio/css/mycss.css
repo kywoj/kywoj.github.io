@@ -71,6 +71,11 @@ footer {
     grid-gap: 10px;
 }
 
+.fit {
+  width: 100%;
+  object-fit: cover;
+}
+
 
 a {
     color: #1430CC;
