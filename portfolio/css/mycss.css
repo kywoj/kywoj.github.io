@@ -168,3 +168,9 @@ tr:nth-child(even) {
   background-color: #DCDCDC;
 }
 
+.readmore {
+  font-size: 10px;
+  border: 1px solid black;
+  padding: 4px;
+}
+
