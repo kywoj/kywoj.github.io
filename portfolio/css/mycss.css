@@ -161,6 +161,19 @@ footer {
 }
 
 
+/* TABLE */
+table {
+  width: 100%;
+}
+
+.role {
+  width: 75%;
+}
+
+.date {
+  width: 25%;
+}
+
 
 /* MISC */
 
