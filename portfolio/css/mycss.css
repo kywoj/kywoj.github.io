@@ -1,26 +1,44 @@
+/* BODY AND OTHER BASICS */
+body {
+    background-image: url("../images/bg.png");
+}
+
+a {
+    color: #1430CC;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; ;
+}
+a:focus {
+    color: #2574A9;
+    text-decoration: underline
+}
+a:active {
+    color: #2574A9 ;
+}
+
+
+
+/* FONTS */
 h1 {
 	font-size: 45px;
 }
 
 h1, p, div, li, .overlay {
 	font-family: 'Merriweather';
-    color: #444444;
+  color: #444444;
 }
 
-/*nav div {
-    display: inline-block;
-    vertical-align: middle;
-    width: 24%;
-    font-size: 20px;
-    padding: 10px;
-    text-align: center;
-    border: 1px solid black;
-}*/
 
+
+/* NAV */
 nav {
  background: #444;
  width: 100%;
 }
+
 nav ul {
  padding: 0;
  margin: 0;
@@ -51,8 +69,15 @@ nav ul li a {
  text-decoration: none;
 }
 
+
+
+/* FOOTER */
 footer {
  	text-align: center;
+}
+
+.footer-text {
+  font-size: 8px;
 }
 
 .icons {
@@ -60,6 +85,9 @@ footer {
 
 }
 
+
+
+/* FRONT PAGE MAIN */
 .main {
     display: grid;
     grid-template-columns: 2% 96% 2%;
@@ -68,40 +96,25 @@ footer {
 .fp-portfolio {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
-}
-
-.fit {
-  width: 100%;
-  object-fit: cover;
-}
-
-
-a {
-    color: #1430CC;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline; ;
-}
-a:focus {
-    color: #2574A9;
-    text-decoration: underline
-}
-a:active {
-    color: #2574A9 ;
+    grid-auto-rows: 200px;
 }
 
 .contain {
   position: relative;
   border: 1px black solid;
-  height: 200px;
+  width: auto;
 }
+
+
+
+/* IMG CONSTRAINTS & OVERLAYS */
 
 .contain img {
     object-fit: cover;
+}
 
+.fit {
+  object-fit: cover;
 }
 
 .overlay {
@@ -127,7 +140,7 @@ a:active {
   font-size: 20px;
   text-align: center;
   vertical-align: middle;
-  line-height: 150px;
+  line-height: 130px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -135,4 +148,23 @@ a:active {
 }
 
 
+
+/* MISC */
+
+button {
+    border: 1px black solid;
+    color: black;
+    background-color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-family: Merriweather;
+    margin: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: #DCDCDC;
+}
 

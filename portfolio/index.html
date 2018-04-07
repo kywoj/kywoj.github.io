@@ -2,24 +2,27 @@
 <html>
 	<head>
 		<link href="./css/mycss.css" rel="stylesheet">
+		<link href="./css/mix.css" rel="stylesheet">
+		<link href="./css/responsive.css" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i" rel="stylesheet">
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Ky Wojciechowski Portfolio</title>
+		<title>Ky Wojciechowski's Portfolio</title>
 	</head>
 	<body>
-	<header></header>
+	<header>
 	<nav>
 		<ul>
-			<li><a class="active" href="./index.html">HOME</a></li>
+			<li><a class="active" href="./index.html"><img src="./images/key.png"/></a></li>
 			<li><a href="./work.html">WORK</a></li>
 			<li><a href="./cv.html">CV</a></li>
 			<li><a href="./about.html">ABOUT</a></li>
 		</ul>
 	</nav>
+</header>
 		<div class="main">
 		<div></div>
-		<div class="intro">
+		<div>
 		<h1>Hi! I'm Ky.</h1>
 		<p>My name is Kylie (or “Ky”, either works) Wojciechowski, and, to answer your question, the trick to pronouncing my last name is to say “Where’s your house key?” quickly.</p>
 
@@ -29,11 +32,18 @@
 
 		<p>I’m in the second semester of my first year in the Master of Science in Information program at the University of Michigan’s <a href="https://www.si.umich.edu/">School of Information</a>, specializing in User Experience (UX) Research &amp; Design. I have a Bachelor of Arts in Professional &amp; Technical Writing from <a href="http://www.svsu.edu/rhetoricandprofessionalwriting/">Saginaw Valley State University</a>.</p>
 
+		<div class="mobile-index">
+			<img class="fit" width="100%" height="100%" src="./images/presentation.jpg"/>
+		</div>
+
+		<div class="tablet-index">
 		<p>Here's some of my most recent work:</p>
 		<div class="fp-portfolio">
-			<div class="contain"><img class="fit" width="100%" height="100%" src="./images/presentation.jpg"/><div class="overlay">Contextual Inquiry</div></div>
-			<div class="contain"><img width="100%" height="100%" class="fit" src="./images/prototype.png"/><div class="overlay">Prototype Design</div></div>
-			<div class="contain"><img class="fit" width="100%" height="100%" src="./images/journeymap.png"/><div class="overlay">Customer Journey Maps</div></div>
+			<div class="contain"><a href="./work/contextualinquiry.html"><img alt="Contextual inquiry presentation" class="fit" height="100%" width="100%" src="./images/presentation.jpg"/><div class="overlay">Contextual Inquiry</div></a><span class="fp-caption-title">Contextual Inquiry</span><span class="fp-caption-text"><br>As part of my Contextual Inquiry and Consulting Foundations course at the University of Michigan (SI * 501) in the fall of 2017, my three teammates and I conducted a series of contextual interviews with stakeholders at a local public library to get a better sense of issues that were present with their feedback collection methodologies and make recommendations.</span><button><a href="./work/contextualinquiry.html">Read More</a></button></div>
+			<div class="contain"><a href="./work/prototype.html"><img alt="Prototype design" class="fit" width="100%" height="100%" src="./images/prototype.png"/><div class="overlay">Prototype Design</div></a><span class="fp-caption-title">Prototype Design</span><span class="fp-caption-text"><br>As part of my Introduction to Interaction Design course at the University of Michigan (SI * 582) in the fall of 2017, I created a design prototype for an app that functioned as a controlled access entry system for an apartment complex.</span><button><a href="./work/prototype.html">Read More</a></button></div>
+			<div class="contain"><a href="./work/infoflowdiagram.html"><img alt="Information flow diagram" class="fit" width="100%" height="100%" src="./images/infoflowdiagram.png"/><div class="overlay">Info. Flow Diagram</div></a><span class="fp-caption-title">Info. Flow Diagram</span><span class="fp-caption-text"><br>After conducting a series of contextual interviews with stakeholders involved with the University of Michigan’s Campus Day event, I created an information flow diagram as a way to visualize how information was received, altered, and sent between various teams and departments at the University.</span><button><a href="./work/infoflowdiagram.html">Read More</a></button></div>
+		</div>
+
 
 		</div>
 	</div>
@@ -41,13 +51,14 @@
 </div>
 	</div>
 	<footer>
-		<hr>
+		<br><br><br><br><br><br><br><br><br>
 		<div class="icons">
-		<a href="mailto:kyliewojciechowski@gmail.com"><img src="./images/email.png" alt="" width="10%"/></a>
-		<a href="https://www.linkedin.com/in/kyliewojciechowski/"><img src="./images/linkedin.png" alt="" width="10%"/></a>
-		<a href="https://github.com/kywoj"><img src="./images/github.png" alt="" width="10%"/></a>
-		<a href="https://twitter.com/whrsyrhousekey"><img src="./images/twitter.png" alt="" width="10%"/></a>
+		<a href="mailto:kyliewojciechowski@gmail.com"><img src="./images/email.png" alt="Email" width="10%"/></a>
+		<a href="https://www.linkedin.com/in/kyliewojciechowski/"><img src="./images/linkedin.png" alt="LinkedIn" width="10%"/></a>
+		<a href="https://github.com/kywoj"><img src="./images/github.png" alt="Github" width="10%"/></a>
+		<a href="https://twitter.com/whrsyrhousekey"><img src="./images/twitter.png" alt="Twitter" width="10%"/></a>
 		<div>
+		<p class="footer-text">Handed-coded in 2018 by Ky Wojciechowski</p>
 	</footer>
 
 

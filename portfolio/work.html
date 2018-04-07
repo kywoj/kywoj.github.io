@@ -3,16 +3,17 @@
 	<head>
 		<link href="./css/mycss.css" rel="stylesheet">
 		<link href="./css/mix.css" rel="stylesheet">
+		<link href="./css/responsive.css" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i" rel="stylesheet">
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Ky Wojciechowski Portfolio</title>
+		<title>Ky Wojciechowski's Portfolio</title>
 	</head>
 	<body>
 	<header></header>
 	<nav>
 		<ul>
-			<li><a href="./index.html">HOME</a></li>
+			<li><a href="./index.html"><img src="./images/key.png"/></a></li>
 			<li><a class="active"  href="./work.html">WORK</a></li>
 			<li><a href="./cv.html">CV</a></li>
 			<li><a href="./about.html">ABOUT</a></li>
@@ -23,27 +24,31 @@
 		<div class="intro">
 		<h1>Work</h1>
 
-		<p>Use the buttons below to filter my work by the categories of research, design, or writing.</p>
+		<p> Click any image to read more about a specific project. Use the buttons below to filter my work by the categories of research, design, or writing.</p>
 
 		<div class="controls">
-            <button type="button" data-filter="all">All</button>
-            <button type="button" data-filter=".research">#Research</button>
-            <button type="button" data-filter=".design">#Design</button>
-            <button type="button" data-filter=".writing">#Writing</button>
+            <button type="button" class="work" data-filter="all">All</button>
+            <button type="button" class="work" data-filter=".research">Research</button>
+            <button type="button" class="work" data-filter=".design">Design</button>
+            <button type="button" class="work" data-filter=".writing">Writing</button>
         </div>
 
-        <div class="container">
-        	    <div class="mix research img-wrapper"><img width=class="fit" src="./images/presentation.jpg"/><span class="caption">Contextual Inquiry</span></div>
-        	    <div class="mix research img-wrapper"><img class="fit" src="./images/journeymap.png"/><span class="caption">Customer Journey Maps</span></div>
-               <div class="mix writing img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Design Assessment</span></div>             
-                <div class="mix research img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Honors Thesis Study</span></div>                
-                <div class="mix research img-wrapper"><img class="fit" src="./Sketches/IMG_8946.JPG.jpeg"/><span class="caption">Information Flow Diagram</span></div>
-                 <div class="mix design img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">MLA Citation  Reference</span></div>
-                <div class="mix design img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Newspaper Style Guide</span></div>
-                <div class="mix design img-wrapper"><img class="fit" src="./images/prototype.png"/><span class="caption">Prototype Design</span></div>  
-                <div class="mix writing img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Research Essay</span></div>
-				<div class="mix writing img-wrapper"><img class="fit" src="./Sketches/IMG_8947.JPG.jpeg"/><span class="caption">Technical Description</span></div>
-            </div>
+            <div class=" container w-portfolio">
+            	<div class="contain mix research"><a href="./work/contextualinquiry.html"><img alt="Contextual inquiry presentation" class="fit" height="100%" width="100%" src="./images/presentation.jpg"/></a><span class="caption-title">Contextual Inquiry</span></div>
+				
+				<div class="contain mix design"><a href="./work/prototype.html"><img alt="Prototype design" class="fit" width="100%" height="100%" src="./images/prototype.png"/></a><span class="caption-title">Prototype Design</span></div>
+				
+				<div class="contain mix research"><a href="./work/infoflowdiagram.html"><img alt="Information flow diagram" class="fit" width="100%" height="100%" src="./images/infoflowdiagram.png"/></a><span class="caption-title">Info. Flow Diagram</span></div>
+				
+				<div class="contain mix research"><a href="./work/journeymaps.html"><img alt="Journey maps" class="fit" height="100%" width="100%" src="./images/journeymaps.png"/></a><span class="caption-title">Journey Maps</span></div>
+				
+				<div class="contain mix writing"><a href="./work/newspaperstyleguide.html"><img alt="Newspaper style guide" class="fit" width="100%" height="100%" src="./images/newspaperstyleguide.jpg"/></a><span class="caption-title">Newspaper Style Guide</span></div>
+				
+				<div class="contain mix writing"><a href="./work/designassessment.html"><img alt="Design Assessment" class="fit" width="100%" height="100%" src="./images/designassessment.png"/></a><span class="caption-title">Design Assessment</span></div>
+
+				<div class="contain mix writing"><a href="./work/rhetoricaltopicsessay.html"><img alt="Rhetorical Topics Essay" class="fit" width="100%" height="100%" src="./images/rhetoricaltopicsessay.png"/></a><span class="caption-title">Rhetorical Topics Essay</span></div>
+			            	
+		</div>
 
         <script src="./js/mixitup.min.js"></script>
 
@@ -57,17 +62,17 @@
             // NB: See comments in stylesheet regarding fixes for chrome and safari "flickering"
         </script>
 
-		</div>
-	</div>
+		
 
 	<footer>
-		<hr>
+		<br><br><br><br><br><br><br><br><br>
 		<div class="icons">
-		<a href="mailto:kyliewojciechowski@gmail.com"><img src="./images/email.png" alt="" width="10%"/></a>
-		<a href="https://www.linkedin.com/in/kyliewojciechowski/"><img src="./images/linkedin.png" alt="" width="10%"/></a>
-		<a href="https://github.com/kywoj"><img src="./images/github.png" alt="" width="10%"/></a>
-		<a href="https://twitter.com/whrsyrhousekey"><img src="./images/twitter.png" alt="" width="10%"/></a>
+		<a href="mailto:kyliewojciechowski@gmail.com"><img src="./images/email.png" alt="Email" width="10%"/></a>
+		<a href="https://www.linkedin.com/in/kyliewojciechowski/"><img src="./images/linkedin.png" alt="LinkedIn" width="10%"/></a>
+		<a href="https://github.com/kywoj"><img src="./images/github.png" alt="Github" width="10%"/></a>
+		<a href="https://twitter.com/whrsyrhousekey"><img src="./images/twitter.png" alt="Twitter" width="10%"/></a>
 		<div>
+		<p class="footer-text">Handed-coded in 2018 by Ky Wojciechowski</p>
 	</footer>
 
 
