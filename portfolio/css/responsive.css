@@ -22,7 +22,7 @@
   display: none;
 }
 
-button {
+.readmore {
   display: none;
 }
 
@@ -100,7 +100,7 @@ button {
   display: inline-block;
 }
 
-button {
+.readmore {
   display: none;
 }
 
