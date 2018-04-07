@@ -200,3 +200,7 @@ tr:nth-child(even) {
   padding: 4px;
 }
 
+.back {
+  font-size: 10px;
+}
+
