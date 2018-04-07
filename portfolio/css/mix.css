@@ -22,8 +22,9 @@
 
 .controls {
     padding: 0rem;
-    background: #ffffff;
     font-size: 0.1px;
+    background-image: url("../images/bg.png");
+
 }
 
 .control {
@@ -158,9 +159,5 @@
   font-size: 10px;
 text-align: justify;
 
-}
-
-.mix.design {
-    color: #1E90FF;
 }
 

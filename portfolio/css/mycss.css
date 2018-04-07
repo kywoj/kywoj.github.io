@@ -204,5 +204,7 @@ tr:nth-child(even) {
   font-size: 10px;
   border: 1px solid black;
   padding: 4px;
+  background-image: url("../images/bg.png");
+
 }
 
