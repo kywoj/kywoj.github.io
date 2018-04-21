@@ -1,0 +1,22 @@
+body {
+	padding: 20px;
+}
+
+p, h1, h2, h3, caption, td, th {
+	font-family: 'Merriweather';
+}
+
+table, td, th {
+	border: 1px black solid;
+	border-collapse: collapse;
+	padding: 15px;
+
+}
+
+th {
+	background-color: #D3D3D3;
+}
+
+tr:nth-child(even) {
+  background-color: #DCDCDC;
+}

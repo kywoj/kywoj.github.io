@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link href="./css/basic.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i" rel="stylesheet">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<title>Accessibility Evaluation</title>
+	</head>
+	<body>
+	<header><nav></nav></header>
+	<p>Kylie Wojciechowski<br>SI 539, Winter 2018<br>Accessibility Evaluation Final Project</p>
+
+	<h1>Accessibility Evaluation of <a href="Accessibility Evaluation of UMOR Leadership Team Page">UMOR Leadership Team Page</a></h1>
+
+	<h2>Accessibility Evaluation Checklist</h2>
+	<table>
+		<caption>Accessibility Evaluation Checklist for <a href="http://accessibility.voxmedia.com/#designers">Designers</a></caption>
+		<tr>
+			<th width="25%">Checklist Items for Designers</th>
+			<th width="15%">Has This Checklist Been Observed on This Page?</th>
+			<th width="60%">Additional Comments</th>
+		</tr>
+		<tr>
+			<td>Make sure there is enough contrast between text and its background color.</td>
+			<td>No</td>
+			<td><p>There are many examples of insufficient contrast between text and background color on this page; two of the worst examples are described below.</p>
+			<p>The headline-links (displayed on a white background) under the “News Spotlight” header are displayed with color #ab9e0b: a dark gold.</p>
+			<p>The contrast ratio here is only 2.75, which is neither WCAG AA nor WCAG 2 AAA compliant.</p>
+			<p>Worse yet, when you hover over the headline-links (still displayed on a white background), they are displayed with color #F3E543: a bright yellow.</p>
+			<p>The contrast ratio here is only 1.304, which is absolutely not WCAG 2 AA or WCAG 2 AAA compliant.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Don't indicate important information using color alone.</td>
+			<td>No</td>
+			<td><p>The breadcrumb links across the top left-hand side of the page, which read “Home / Research at U-M / Office of Research / UMOR Leadership Team” are not underlined, even when you hover over them; in that case, they just turn a different color, so the hover state (i.e., important information) is only indicated through color.</p>
+			<p>Similarly, the headline-links under the “News Spotlight” header are not underlined even when hovered over, either.</p>
+			<p>Finally, the links in the footer (“Resources”, “Units &amp;Initiatives”, “News”, “OVPR Staff”, and “Contact Form” are also not underlined even when hovered over.</p>
+			<p>(Most levels of contrast between link text color (in a non-hover state) and the hover state link text color are insufficient, too.)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Pair values of colors together (not only hues) to increase contrast.</p>
+			<td>No</td>
+			<td>The contrast between the hover and non-hover states of the headline-links under the “News Spotlight” header and the links in the footer is based on value, not hue, but the contrast is still insufficient.</td>
+		</tr>
+		<tr>
+			<td>Don't rely on sensory characteristics as the sole indicator for understanding and operating content.</td>
+			<td>Yes</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Design focus states to help users navigate and understand where they are.</td>
+			<td>No</td>
+			<td><p>When you navigate through this page via keyboard, there are no issues through the first-level menu (“Office of Research”, “UMOR Units”, “Research &amp; Supported Projects”, “Research Ethics &amp; Compliance, “eResearch”, and “Finance-Sponsored Programs”) and second-level menu (“Research at U-M”, “Resources for Researchers”, “News &amp; Issues”, “Research Initiatives”, and “Economic Engagement”).</p>
+			<p>The focus states here are acceptable: the current link is shown in its standard hover display format (which may or may not have sufficient contrast).</p>
+			<p>However, as you continue to tab through the navigation, you land on a few dozen links that are not visible in this current view of the page. It’s unclear where these links are located, whether within closed menus or otherwise.</p>
+			<p>This is unnerving during keyboard navigation, as you lose your sense of where you are on the page.</p></td>
+		</tr>
+		<tr>
+			<td>Help users understand inputs, and help them avoid and correct mistakes.</td>
+			<td>N/A</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Write good alt text for your images.</td>
+			<td>No</td>
+			<td><p>None of the images on this page have alt text, except for that of the Associate VP for Research Policy and Compliance.</p>
+			<p>The alt text for the image of this man reads as follows: “*Picture of man (Michael Imperiale) at work*"; whether this is good alt text is debatable.</p></td>
+		</tr>
+		<tr>
+			<td>If an experience cannot be made accessible, create another route for users to get that information.</td>
+			<td>N/A</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Be as consistent and clear as possible in layout and copy.</td>
+			<td>Yes</td>
+			<td></td>
+		</tr>
+	</table>
+
+	<br>
+	<hr>
+	<br>
+
+	<h2>Suggestions for Improvement</h2>
+		<h3>1) Add the alt attribute and meaningful alternative text to each of the images of the UMOR Leadership Team.</h3>
+		 <p>At the bare minimum, the alt attribute needs to be added to each <img> tag, even if it’s empty, as the argument could be made that, for users with screen readers, the images of each team member are ‘decorative’ in the sense that they don’t convey any essential information. However, ideally, meaningful alternative text should be added as the value of each image’s alt attribute. For example, the alternative text for the image of Michael Imperiale could be revised to read “A man, Michael Imperiale, wearing a suit, tie, and jacket smiling and standing in front of a laboratory”, or something similar.</p>
+
+		 <h3>2) Fix issues with insufficient color contrast by choosing background and foreground colors with sufficient contrast.</h3>
+		 <p>For example, the headline-links under the “News Spotlight” header could be changed from color #ab9e0b, which has a contrast of 2.75 with a white background, to color #2f6cb5, which has a contrast of 5.33 with a white background.</p>
+
+		 <h3>3) Add underlines to all link text when in a hover state so that the hover state is not just communicated via color change. </h3>
+		 <p>Hover states are currently communicated via only color change, and the contrast between the original color and the hover color is often too subtle to notice. So, underlines should be added to all links’ hover states so as to ensure that the hover state is not communicated just via color.</p>
+
+		 <h3>4) Keyboard navigation order issues should be resolved by ensuring the links traversed are only those visible on the page. </h3>
+		 <p>When a user uses ‘Tab’ to navigate through the page, they should not land on links that are not visible on the current page (like those buried within closed menus, for example), as they do now. So, to fix this, appropriate tabindex attributes should be added to each visible link on the page.</p>
+
