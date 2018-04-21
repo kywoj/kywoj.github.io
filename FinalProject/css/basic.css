@@ -16,7 +16,3 @@ table, td, th {
 th {
 	background-color: #D3D3D3;
 }
-
-tr:nth-child(even) {
-  background-color: #DCDCDC;
-}
