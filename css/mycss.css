@@ -24,7 +24,7 @@ h1 {
 }
 
 h1, p, div, li, .overlay {
-	font-family: 'Libre+Franklin';
+	font-family: 'Libre Franklin';
   color: #444444;
 }
 
@@ -183,7 +183,7 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 10px;
-    font-family: Libre+Franklin;
+    font-family: Libre Franklin;
     margin: 5px;
 }
 
