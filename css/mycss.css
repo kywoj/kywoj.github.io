@@ -1,5 +1,9 @@
 /* BODY AND OTHER BASICS */
 
+body {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
 a {
     color: #1430CC;
     text-decoration: none;
