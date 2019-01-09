@@ -40,7 +40,7 @@ h1, p, div, li, .overlay {
 
 /* NAV */
 nav {
- background: #000000;
+ background: green;
  width: 100%;
 }
 
@@ -57,11 +57,11 @@ nav ul li {
 }
 
 nav ul li:hover {
- background-color: #5C80BC;
+ background-color: #ffffff;
 }
 
 .active {
-    background: #5C80BC;
+    background: purple;
 }
 
 nav ul li a {
