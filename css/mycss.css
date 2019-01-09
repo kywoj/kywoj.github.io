@@ -32,6 +32,10 @@ h1, p, div, li, .overlay {
   color: #444444;
 }
 
+.centered {
+  text-align: center;
+}
+
 
 
 /* NAV */
