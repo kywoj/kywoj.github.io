@@ -41,7 +41,7 @@ h1, p, div, li, .overlay {
 /* NAV */
 nav {
  background: green;
- width: 100%;
+ width: 50%;
 }
 
 nav ul {
@@ -57,7 +57,7 @@ nav ul li {
 }
 
 nav ul li:hover {
- background-color: #ffffff;
+ background-color: #red;
 }
 
 .active {
