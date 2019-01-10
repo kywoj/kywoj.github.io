@@ -40,8 +40,10 @@ h1, p, div, li, .overlay {
 
 /* NAV */
 nav {
- background: green;
- width: 50%;
+ width: 100%;
+ display: flex;
+ flex-flow: row wrap;
+ justify-content: flex-end;
 }
 
 nav ul {
@@ -56,21 +58,22 @@ nav ul li {
  padding: 12px 0;
 }
 
-nav ul li:hover {
- background-color: #red;
-}
+/*nav ul li:hover {
+ background-color: ;
+}*/
 
 .active {
-    background: purple;
+    color: #f04e23;
 }
 
 nav ul li a {
- color: #fff;
+ color: #444444;
  text-decoration: none;
  padding: 12px;
 }
  nav ul li a:hover {
  color: #fff;
+ background: #f04e23;
  text-decoration: none;
 }
 
@@ -184,9 +187,10 @@ table {
 
 button {
     border: 1px black solid;
-    color: black;
-    background-color: white;
+    color: #ffffff;
+    background-color: #f04e23;
     padding: 5px 5px;
+    border-radius: 6px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -198,6 +202,7 @@ button {
 tr:nth-child(even) {
   background-color: #DCDCDC;
 }
+
 
 .readmore {
   font-size: 10px;
