@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Ky Woj
+  site_title: Ky Wojciechowski
   site_tagline:  I'm a researcher, writer, and designer committed to making information easier to use.
   favicon_image: /images/favicon.png
 
@@ -78,9 +78,9 @@ font_settings:
   regular_weight: 300
   bold_weight: 500
   site_title:
-    small_size: 25
-    medium_size: 25
-    large_size: 25
+    small_size: 30
+    medium_size: 30
+    large_size: 30
     weight: 500
     letter_spacing: -0.02
   site_tagline:
