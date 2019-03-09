@@ -7,7 +7,7 @@ featured_image:
 
 My name is Ky (or Kylie, either works) Wojciechowski, and, to answer your question, the trick to pronouncing my last name is to say “Where’s your house key?” quickly.
 
-Now that that’s out of the way: **I'm a researcher, writer, and designer (albeit a [boring](http://blog.capwatkins.com/the-boring-designer) one) committed to making information easier to use.**.
+Now that that’s out of the way: **I'm a researcher, writer, and designer (albeit a [boring](http://blog.capwatkins.com/the-boring-designer) one) committed to making information easier to use.**
 
 My background is in words: in college, I studied technical communication and worked as a journalist, editor, and writing center tutor. (My [curriculum vitae](/cv) has more details about this and other, older work.)
 
