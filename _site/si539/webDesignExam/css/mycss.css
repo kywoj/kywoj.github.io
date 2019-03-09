@@ -1,0 +1,19 @@
+img {
+	padding: 5%;
+	width: 50%;
+	object-fit: contain;
+}
+
+.img-bord {
+	border: 5px solid blue;
+	width: 50%;
+	text-align: center;
+
+} 
+.img-cont {
+	display: flex;
+}
+
+body {
+    background-image: url("../images/eight_horns.png");
+}
