@@ -1,4 +1,5 @@
 site: Ky Wojciechowski
+baseurl: kywoj.github.io/kwoj
 
 collections:
   pages:
