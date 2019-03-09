@@ -2,7 +2,7 @@
 title: 'My Dream Team'
 date: 2018-06-30 00:00:00
 featured_image: '/images/my-dream-team.png'
-subtitle: 'Conducted a suite of research studies on a team formation web app, including interaction maps, interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.'
+subtitle: 'Conducted a suite of research studies on a team-formation web app, contextual interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.'
 ---
 
 ![](/images/my-dream-team-logo.png)
