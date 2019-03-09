@@ -1,6 +1,6 @@
 ---
-title: Thank you
-subtitle: 
+title: Ky Woj
+subtitle: Thanks
 description: 
 featured_image: 
 ---

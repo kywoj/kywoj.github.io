@@ -1,6 +1,6 @@
 ---
-title: Resume
-subtitle: 
+title: Ky Woj
+subtitle: Resume
 featured_image:
 ---
 <a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--large">Download PDF</a>

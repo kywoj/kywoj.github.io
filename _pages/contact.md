@@ -1,6 +1,6 @@
 ---
-title: Contact
-subtitle: 
+title: Ky Woj   
+subtitle: Contact
 description: 
 featured_image: 
 ---

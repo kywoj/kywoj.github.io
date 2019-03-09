@@ -1,6 +1,6 @@
 ---
-title: CV
-subtitle: 
+title: Ky Woj
+subtitle: CV
 featured_image:
 ---
 
