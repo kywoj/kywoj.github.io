@@ -9,7 +9,8 @@ featured_image:
 Master of Science in Information<br/>
 University of Michigan, May 2019
 
-Bachelor of Arts in Professional & Technical Writing, _magna cum laude_<br/>
+Bachelor of Arts in Professional & Technical Writing<br> 
+_magna cum laude_<br/>
 Saginaw Valley State University, May 2017<br/>
 
 <br/>
