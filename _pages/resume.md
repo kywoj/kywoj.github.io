@@ -59,15 +59,15 @@ Jan. 2016 – Apr. 2017<br/>
 <br/>
 
 ### Projects
-**UX Researcher**<br/>
-[My Dream Team Assembler](http://sonic.northwestern.edu/software/c-iknow-mydreamteam/), SONIC Research Group @ Northwestern University <br/>
-Jan. 2018 – Apr. 2018<br/>
-  * Worked as part of a 5-person team to conduct a suite of research studies on a team formation web app, including interaction maps, interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
+**Project Manager & UX Researcher, Writer, & Designer**<br/>
+Expectant<br/>
+Jan. 2019 – Present<br/>
+  * Worked as part of a 4-person team to conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
-<br/>**Developer**<br/>
-[Daily Nutrition Visualization Log](https://github.com/kywoj/SI507-FinalProj) <br/>
-Mar. 2018 – Apr. 2018<br/>
-  * Developed in Python a command-line food diary that creates Plot.ly visualizations of a day's macronutrient intake and posts the results to a Tumblr blog.
+**UX Researcher**<br/>
+My Dream Team, SONIC Research Group @ Northwestern University <br/>
+Jan. 2018 – Apr. 2018<br/>
+  * Worked as part of a 5-person team to conduct research studies on team formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
 
 <br/>**Service Designer**<br/>
 Flint Public Library <br/>
@@ -92,7 +92,7 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.) Alumni panel. Prese
 <br/>
 
 ### Skills
-#### UX Research
+#### Research
   * Affinity diagramming
   * Card sorting
   * Competitive analysis
@@ -102,12 +102,19 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.) Alumni panel. Prese
   * Interaction mapping
   * Survey design
   * Task analysis
-  * Tree resting
+  * Tree testing
   * Usability testing
   * User stories and personas
 
-#### UX Design
-  * Interaction & graphic design
+#### Writing
+   * Content strategy
+   * Instructional documentation
+   * Microcopy and UX writing
+   * News reporting
+   * Technical writing and editing
+
+#### Design
+  * Interaction & experience design
   * Prototyping (High- and low-fidelity)
   * Storyboarding
   * Wireframing
@@ -119,13 +126,6 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.) Alumni panel. Prese
   * Site maps
   * Taxonomy
   * User flows
-
-#### Writing
-   * Content strategy
-   * Instructional documentation
-   * Microcopy and UX writing
-   * News reporting
-   * Technical writing and editing
 
 #### Programming
   * HTML5 and CSS3
