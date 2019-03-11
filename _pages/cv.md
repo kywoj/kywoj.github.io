@@ -8,7 +8,8 @@ featured_image:
 Master of Science in Information<br/>
 University of Michigan, May 2019
 
-Bachelor of Arts in Professional & Technical Writing, _magna cum laude_<br/>
+Bachelor of Arts in Professional & Technical Writing<br/>
+_magna cum laude_<br/>
 Saginaw Valley State University, May 2017<br/>
 Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisciplinaryLore.pdf">Beyond Anecdotes and Disciplinary Lore: The Case for Usability Research as ‘RAD’ in Writing Center Scholarship</a>
 
@@ -32,7 +33,7 @@ May 2018 – Aug. 2018<br/>
 <br/>**User Experience Research Intern**<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
 Oct. 2017 – Present<br/>
-  * Conduct semi-structured contextual interviews with stakeholders to identify end-user requirements for implementation of the Slate CRM tool.
+  * Interviewed dozens of stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
   * Analyze complex, open-ended survey responses to identify task-specific requirements.
   * Design research artifacts to facilitate data-informed administrative decision-making.
 
@@ -57,7 +58,7 @@ July 2016 – Apr. 2017<br/>
 <br/>**Junior Usability Researcher**<br/>
 Center for Usability Studies and Universal Design: University Center, MI <br/>
 Jan. 2016 – Apr. 2017<br/>
-  * Led meetings with to gauge client needs and clarify system details, users, and goals.
+  * Led meetings to gauge client needs and clarify system users and goals.
   * Planned and conducted appropriate, multi-modal studies and evaluations.
   * Presented findings and subsequent recommendations to clients.
 
@@ -78,34 +79,34 @@ Apr. 2014 – Apr. 2015<br/>
 <br/>**General Reporter**<br/>
 _The Valley Vanguard_: University Center, MI <br/>
 Aug. 2013 – Apr. 2014<br/>
-  * Conducted interviews and gathered information to write [articles of interest](http://www.valleyvanguardonline.com/author/kylie-wojciechowski/) to the campus community
-  * Awarded “Best Lead” and “Best Police Brief” for the 2013-14 AY by editorial staff
+  * Conducted interviews and gathered information to write [articles of interest](http://www.valleyvanguardonline.com/author/kylie-wojciechowski/) to the campus community.
+  * Awarded “Best Lead” and “Best Police Brief” for the 2013-14 AY by editorial staff.
 
 <br/>**Senior Tutor**<br/>
 The Diane Boehm Writing Center: University Center, MI <br/>
 Jan. 2013 – Apr. 2017<br/>
-  * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”
-  * Developed an [interactive web-based document](kywoj.github.io/mla8/index.html) to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the region
-  * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017)
-  * Strategically managed the Center’s social media presence across Facebook and Twitter via Hootsuite
-  * Led more than forty 45-minute Writing Center orientation sessions for nearly 600 composition students
-  * Served as a formal mentor to novice tutors by providing knowledge, support, and resources
+  * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”.
+  * Developed an [interactive web-based document](kywoj.github.io/mla8/index.html) to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
+  * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017).
+  * Strategically managed the Center’s social media presence across Facebook and Twitter via Hootsuite.
+  * Led more than forty 45-minute Writing Center orientation sessions for nearly 600 composition students.
+  * Served as a formal mentor to novice tutors by providing knowledge, support, and resources.
   * Secured funding to travel to the International Writing Centers Association Conference (Fall 2014)
-  * Wrote proposal and secured I.R.B. (Institutional Research Board) approval to conduct international research on writing center tutors’ mental health (Winter 2014)
+  * Wrote proposal and secured I.R.B. (Institutional Research Board) approval to conduct international research on writing center tutors’ mental health (Winter 2014).
 
 
 <br/>
 
 ### Projects
-**UX Researcher**<br/>
-[My Dream Team Assembler](http://sonic.northwestern.edu/software/c-iknow-mydreamteam/), SONIC Research Group @ Northwestern University <br/>
-Jan. 2018 – Apr. 2018<br/>
-  * Worked as part of a 5-person team to conduct a suite of research studies on a team formation web app, including interaction maps, interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
+**Project Manager & UX Researcher, Writer, & Designer**<br/>
+Expectant<br/>
+Jan. 2019 – Present<br/>
+  * Worked as part of a 4-person team to conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
-<br/>**Developer**<br/>
-[Daily Nutrition Visualization Log](https://github.com/kywoj/SI507-FinalProj) <br/>
-Mar. 2018 – Apr. 2018<br/>
-  * Developed in Python a command-line food diary that creates Plot.ly visualizations of a day's macronutrient intake and posts the results to a Tumblr blog.
+**UX Researcher**<br/>
+My Dream Team, SONIC Research Group @ Northwestern University <br/>
+Jan. 2018 – Apr. 2018<br/>
+  * Worked as part of a 5-person team to conduct research studies on team formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests
 
 <br/>**Service Designer**<br/>
 Flint Public Library <br/>
