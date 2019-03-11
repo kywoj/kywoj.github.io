@@ -166,7 +166,7 @@ Aug. 2017 – Dec. 2017<br/>
 ### Presentations
 **Wojciechowski, K.** (2018, Sept.) Words as material, writing as interfacing: Observations & a call to action from the middle. Keynote presented at a meeting of Corridors (the Great Lakes Writing and Rhetoric Conference) in University Center, MI.
 
-**Wojciechowski, K.** & Wong, N. (2018, May). Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules. Presented at a meeting of LOEX in Houston, TX.
+**Wojciechowski, K.** & Wong, N. (2018, May). [Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules](http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf). Presented at a meeting of LOEX in Houston, TX.
 
 Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.) Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
 

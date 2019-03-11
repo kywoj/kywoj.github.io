@@ -14,3 +14,5 @@ My background is in words: in college, I studied technical communication and wor
 I became much more invested and interested in how people used my words to perform tasks or reach their goals after doing some informal usability testing in a documentation course, so I enrolled in the University of Michigan's School of Information to study research and design.
 
 **I'm now preparing to graduate with my Master of Science degree and currently seeking full-time opportunities in the fields of user experience, information architecture, and content strategy.**
+
+Reach me at kywoj [at] umich.edu. 
