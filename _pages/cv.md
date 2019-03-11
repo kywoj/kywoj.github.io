@@ -5,10 +5,11 @@ featured_image:
 ---
 
 ### Education
-Master of Science in Information<br/>
+Master of Science, Information<br/>
+UX Research & Design<br/>
 University of Michigan, May 2019
 
-Bachelor of Arts in Professional & Technical Writing<br/>
+Bachelor of Arts, Professional & Technical Writing<br/>
 _magna cum laude_<br/>
 Saginaw Valley State University, May 2017<br/>
 Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisciplinaryLore.pdf">Beyond Anecdotes and Disciplinary Lore: The Case for Usability Research as ‘RAD’ in Writing Center Scholarship</a>
@@ -18,7 +19,7 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 **Behavioral Science Fellow**<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
 Sept. 2018 – Present<br/>
-  * Design and conduct suites of surveys, interviews, and usability tests for web-based academic tools, including Tandem, eCoach, and Sage.
+  * Design and conduct series of surveys, interviews, and usability tests for web-based academic tools, including Tandem, eCoach, and Sage.
 
 <br/>**User Experience Research & Design Intern**<br/>
 Dassault Systèmes: Johnston, RI<br/>
@@ -31,14 +32,14 @@ May 2018 – Aug. 2018<br/>
 <br/>**User Experience Research Intern**<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
 Oct. 2017 – Present<br/>
-  * Interviewed dozens of stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
-  * Analyze complex, open-ended survey responses to identify task-specific requirements.
-  * Design research artifacts to facilitate data-informed administrative decision-making.
+ * Interview stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
+* Analyze complex, open-ended survey responses to identify task-specific requirements.
+* Design research artifacts to facilitate data-informed administrative decision-making.
 
   <br/>**Instructional Design Fellow**<br/>
 Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
 Oct. 2017 – Apr. 2017<br/>
-  * Researched, designed and developed instructional modules according to Universal Design principles.
+  * Developed course modules according to Universal Design principles.
   * Conducted focus groups and usability tests.
 
 <br/>**Information Management Specialist**<br/>

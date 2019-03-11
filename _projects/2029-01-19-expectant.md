@@ -2,7 +2,7 @@
 title: 'Expectant'
 date: 2018-06-30 00:00:00
 featured_image: '/images/expectant.png'
-subtitle: In progress – Conducted secondary research, competitive feature analyses, and interviews to inform design decisions for an app that offers support to women who've experienced a pregnancy loss.
+subtitle: Conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 ---
 
 ![](/images/expectant-logo.png)
