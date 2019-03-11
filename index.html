@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -28,33 +29,42 @@ work here
 		<!--<div class="mobile-index">
 			<img class="fit" alt="Contextual inquiry presentation" src="./images/presentation.jpg"/>
 		</div>
+=======
+---
+layout: default
+title: UX Researcher, Writer, & Designer
+description: UX Researcher, Writer, & Designer
+featured_image: /images/social.jpg
+---
+>>>>>>> 62ca74f7d96f15f034532c59c092495e1eb636b1
 
-		<div class="tablet-index">
-		<p>Here's some of my most recent work:</p>
-		<div class="fp-portfolio">
-			<div class="contain"><a href="./work/contextualinquiry.html"><img alt="Contextual inquiry presentation" class="fit" src="./images/presentation.jpg"/><div class="overlay">Contextual Inquiry</div></a><span class="fp-caption-title">Contextual Inquiry</span><span class="fp-caption-text"><br>As part of my Contextual Inquiry and Consulting Foundations course at the University of Michigan (SI * 501) in the fall of 2017, my three teammates and I conducted a series of contextual interviews with stakeholders at a local public library to get a better sense of issues that were present with their feedback collection methodologies and make recommendations.</span><div><a class="readmore" href="./work/contextualinquiry.html">Read More</a></div></div>
-			
-			<div class="contain"><a href="./work/prototype.html"><img alt="Prototype design" class="fit" src="./images/prototype.png"/><div class="overlay">Prototype Design</div></a><span class="fp-caption-title">Prototype Design</span><span class="fp-caption-text"><br>As part of my Introduction to Interaction Design course at the University of Michigan (SI * 582) in the fall of 2017, I created a design prototype for an app that functioned as a controlled access entry system for an apartment complex.</span><div><a class="readmore" href="./work/prototype.html">Read More</a></div></div>
+<section class="portfolio">
 
-			<div class="contain"><a href="./work/infoflowdiagram.html"><img alt="Information flow diagram" class="fit" src="./images/infoflowdiagram.png"/><div class="overlay">Info. Flow Diagram</div></a><span class="fp-caption-title">Info. Flow Diagram</span><span class="fp-caption-text"><br>After conducting a series of contextual interviews with stakeholders involved with the University of Michigan’s Campus Day event, I created an information flow diagram as a way to visualize how information was received, altered, and sent between various teams and departments at the University.</span><div><a class="readmore" href="./work/infoflowdiagram.html">Read More</a></div></div>
+	<div class="content-wrap portfolio-wrap">
+
+		{% for project in site.projects reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
 		</div>
 
+		{% endfor %}
 
-		</div>-->
 	</div>
-</div>
-	<footer>
-		<br><br><br><br><br><br><br><br><br>
-		<div class="icons">
-		<a href="mailto:kyliewojciechowski@gmail.com"><img class="icon" src="./images/email.png" alt="Email"/></a>
-		<a href="https://www.linkedin.com/in/kyliewojciechowski/"><img class="icon"  src="./images/linkedin.png" alt="LinkedIn"/></a>
-		<a href="https://github.com/kywoj"><img class="icon"  src="./images/github.png" alt="Github"/></a>
-		<a href="https://twitter.com/whrsyrhousekey"><img class="icon"  src="./images/twitter.png" alt="Twitter"/></a>
-		</div>
-		<p class="footer-text">Handmade in 2018-2019</p>
-	</footer>
 
-
-
-	</body>
-</html>
+</section>

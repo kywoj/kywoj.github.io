@@ -1,0 +1,155 @@
+/*GENERAL FORMATTING*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.hang {
+    text-indent: -3em;
+    margin-left: 3em;
+} 
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+button.accordion {
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+button.accordion.active, button.accordion:hover {
+}
+
+button.accordion:after {
+    content: '\02795';
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+p, h1, h2, h3, h4, h5, h6, li {
+     font-family: arial;
+}
+
+p.hangingIndent { 
+text-indent: -28px;
+padding-left: 28px;
+}
+button.accordion.active:after {
+    content: "\2796";
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 10000px;
+}
+
+
+
+/*1: AUTHOR*/
+.author-card {
+  background-color: #C62828;
+}
+
+.author-text {
+  color: #C62828;
+}
+
+
+/*2: TITLE*/
+.title-card {
+  background-color: #EF6C00;
+}
+
+.title-text {
+  color: #EF6C00;
+}
+
+
+/*3: CONTAINERS*/
+.containers-card {
+  background-color: #F9A825;
+}
+
+.containers-text {
+  color: #F9A825;
+}
+
+
+/*4: CONTRIBUTORS*/
+.contributors-card {
+  background-color: #9E9D24;
+}
+
+.contributors-text {
+  color: #9E9D24;
+}
+
+
+/*5: VERSIONS*/
+.versions-card {
+  background-color: #558B2F;
+}
+
+.versions-text {
+  color: #558B2F;
+}
+
+
+/*6: NUMBERS*/
+.numbers-card {
+  background-color: #00695C;
+}
+
+.numbers-text {
+  color: #00695C;
+}
+
+
+/*7: PUBLISHER*/
+.publisher-card {
+  background-color: #00838F;
+}
+
+.publisher-text {
+  color: #00838F;
+}
+
+
+/*8: DATE*/
+.date-card {
+  background-color: #1565C0;
+}
+
+.date-text {
+  color: #1565C0;
+}
+
+
+/*8: LOCATION*/
+.location-card {
+  background-color: #6A1B9A;
+}
+
+.location-text {
+  color: #6A1B9A;
+}
