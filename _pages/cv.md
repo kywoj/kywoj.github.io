@@ -155,8 +155,8 @@ Aug. 2017 – Dec. 2017<br/>
 | MiWCA to ECWCA Scholarship | Mar. 2017 |
 | Illinois State University Writing Research Scholarship | Aug. 2013 |
 | Braun Award for Writing Excellence in General Education | Mar. 2013 |
-| John W. & Rose E. Watson Foundation Scholarship | May 2012–May 2016 |
-| SVSU President’s (Full) Scholarship | May 2012–May 2016 |
+| John W. & Rose E. Watson Foundation Scholarship | May 2012 |
+| SVSU President’s (Full) Scholarship | May 2012 |
 | Patricia M. Scholarship of the Bay Community Foundation | May 2012 |
 | Monsignor Forbes Scholarship | May 2012 |
 | Morning Rotary Club Scholarship | May 2012 |
