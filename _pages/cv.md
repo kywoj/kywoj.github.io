@@ -116,30 +116,30 @@ Aug. 2017 – Dec. 2017<br/>
 ### Other Involvements
 
 
-| Role | Organization | Dates |
-|------------------------------------|------------------------------------------------------|----------------------|
-| Local Organizer | Ann Arbor World Information Architecture Day | Oct. 2018 – Feb. 2019 |
-| Local Volunteer | Ann Arbor World Information Architecture Day | Oct. 2017 – Feb. 2018 |
-| Member | Student Organization for Computer-Human Interaction | Aug. 2017 - Present |
-| Steering Committee Volunteer | SVSU Human Library | Feb. 2017 – Apr. 2017 |
-| Publication Designer | Friends of the Bay City State Recreation Area | Oct. 2016 – Jan. 2017 |
-| President | SVSU Association of Professional & Technical Writers | Aug. 2016 – May 2017 |
-| Tutor | Saginaw Community Writing Center | June 2016 – Aug. 2016 |
-| Content Writing Intern | Cadmium Design Studios | May 2016 – Aug. 2016 |
-| Publication Intern | SVSU Office of International & Advanced Studies | Jan. 2016 – May 2016 |
-| Member | SVSU Writing Center Strategic Planning Committee | Jan. 2016 – Feb. 2016 |
-| Technical & Content Writing Intern | Cardinal Solutions | Aug. 2015 – Apr. 2017 |
-| Assistant Editor | _Writing@SVSU_ | June 2015 – Apr. 2017 |
-| Technical Writing Intern | Altair Engineering | June 2015 – Aug. 2015 |
-| Member | SVSU Professional Journalistic Practices Committee | Apr. 2015 – June 2015 |
-| Volunteer | Saginaw High ACT Writing Workshop | Feb. 2015 |
-| Program Coordinator | TEDxSVSU | Jan. 2015 – Sept. 2016 |
-| Social Media Coordinator | SVSU Active Minds | Sept. 2014 – Dec. 2016 |
-| Remote Editor | _The Grassroots Writing Research Journal_ | June 2014 – Dec. 2015 |
-| Member | Donna J. Roberts Competitive Fellowship | May 2014 — May 2015 |
-| Volunteer | Living Through Literacy | May 2013 – Aug. 2013 |
-| Member | Leopold J. Kantzler Endowed Leadership Fellowship | May 2012 – May 2016 |
-| Member | SVSU Honors Program | May 2012 – May 2017 |
+| Role | Organization | Start Date | End Date |
+|------------------------------------|------------------------------------------------------|----------------------| ----------------------|
+| Local Organizer | Ann Arbor World Information Architecture Day | Oct. 2018 | Feb. 2019 |
+| Local Volunteer | Ann Arbor World Information Architecture Day | Oct. 2017 | Feb. 2018 |
+| Member | Student Organization for Computer-Human Interaction | Aug. 2017 | Present |
+| Steering Committee Volunteer | SVSU Human Library | Feb. 2017 | Apr. 2017 |
+| Publication Designer | Friends of the Bay City State Recreation Area | Oct. 2016 | Jan. 2017 |
+| President | SVSU Association of Professional & Technical Writers | Aug. 2016 | May 2017 |
+| Tutor | Saginaw Community Writing Center | June 2016 | Aug. 2016 |
+| Content Writing Intern | Cadmium Design Studios | May 2016 | Aug. 2016 |
+| Publication Intern | SVSU Office of International & Advanced Studies | Jan. 2016 | May 2016 |
+| Member | SVSU Writing Center Strategic Planning Committee | Jan. 2016 | Feb. 2016 |
+| Technical & Content Writing Intern | Cardinal Solutions | Aug. 2015 | Apr. 2017 |
+| Assistant Editor | _Writing@SVSU_ | June 2015 | Apr. 2017 |
+| Technical Writing Intern | Altair Engineering | June 2015 | Aug. 2015 |
+| Member | SVSU Professional Journalistic Practices Committee | Apr. 2015 | June 2015 |
+| Volunteer | Saginaw High ACT Writing Workshop | Feb. 2015 | Mar. 2015
+| Program Coordinator | TEDxSVSU | Jan. 2015 | Sept. 2016 |
+| Social Media Coordinator | SVSU Active Minds | Sept. 2014 | Dec. 2016 |
+| Remote Editor | _The Grassroots Writing Research Journal_ | June 2014 | Dec. 2015 |
+| Member | Donna J. Roberts Competitive Fellowship | May 2014 | May 2015 |
+| Volunteer | Living Through Literacy | May 2013 | Aug. 2013 |
+| Member | Leopold J. Kantzler Endowed Leadership Fellowship | May 2012 | May 2016 |
+| Member | SVSU Honors Program | May 2012 | May 2017 |
 
 <br/>
 
