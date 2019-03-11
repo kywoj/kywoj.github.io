@@ -6,4 +6,4 @@ I’m now preparing to graduate with my Master of Science degree from the Univer
 
 Reach me at kywoj [at] umich.edu.
 
-✨ This portfolio was built with Jekyll's Index theme and deployed on GitHub (obviously)!
+✨ This portfolio was built with [Jekyll](https://jekyllrb.com/)'s Index theme and deployed on GitHub (obviously)!
