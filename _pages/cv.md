@@ -84,7 +84,7 @@ Aug. 2013 – Apr. 2014<br/>
 The Diane Boehm Writing Center: University Center, MI <br/>
 Jan. 2013 – Apr. 2017<br/>
   * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”.
-  * Developed an [interactive web-based document](http://www.kywoj.github.io/mla8/index.html) to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
+  * Developed a <a href="http://www.kywoj.github.io/mla8/index.html">resource</a> to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
   * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017).
   * Strategically managed the Center’s social media presence across Facebook and Twitter via Hootsuite.
   * Led more than forty 45-minute Writing Center orientation sessions for nearly 600 composition students.
@@ -148,7 +148,7 @@ Jan. 2013 – Apr. 2017<br/>
 ### Presentations
 **Wojciechowski, K.** (2018, Sept.) Words as material, writing as interfacing: Observations & a call to action from the middle. Keynote presented at a meeting of Corridors (the Great Lakes Writing and Rhetoric Conference) in University Center, MI.
 
-**Wojciechowski, K.** & Wong, N. (2018, May). [Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules](http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf). Presented at a meeting of LOEX in Houston, TX.
+**Wojciechowski, K.** & Wong, N. (2018, May). <a href="http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf">Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules</a>. Presented at a meeting of LOEX in Houston, TX.
 
 Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.) Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
 
