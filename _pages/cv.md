@@ -84,7 +84,7 @@ Aug. 2013 – Apr. 2014<br/>
 The Diane Boehm Writing Center: University Center, MI <br/>
 Jan. 2013 – Apr. 2017<br/>
   * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”.
-  * Developed an [interactive web-based document](kywoj.github.io/mla8/index.html) to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
+  * Developed an [interactive web-based document](http://www.kywoj.github.io/mla8/index.html) to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
   * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017).
   * Strategically managed the Center’s social media presence across Facebook and Twitter via Hootsuite.
   * Led more than forty 45-minute Writing Center orientation sessions for nearly 600 composition students.
@@ -104,7 +104,7 @@ Jan. 2019 – Present<br/>
 **UX Researcher**<br/>
 My Dream Team, SONIC Research Group @ Northwestern University <br/>
 Jan. 2018 – Apr. 2018<br/>
-  * Worked as part of a 5-person team to conduct research studies on team formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests
+  * Worked as part of a 5-person team to conduct research studies on team formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
 
 <br/>**Service Designer**<br/>
 Flint Public Library <br/>
