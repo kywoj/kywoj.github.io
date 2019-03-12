@@ -20,11 +20,11 @@ As part of the Contextual Inquiry and Consulting Foundations course at the Unive
 ## Background
 The library's 2016 annual report indicated that its mission was to become “Flint’s go-to place to learn for life”. To this end, its staff is committed to the development of family and digital literacy and the creation of a community gathering space. These commitments are met through a full schedule of workshops, group meetings, services, tutorials, activities, programs, and resources.
 
-However, library administrators found that their methods of gathering feedback from patrons and program participants had not been efficient or successful; they were  informal: conducted mostly via verbal communication and paper forms, which often went missing or were not entered into a centralized database for future use. 
+However, library administrators found that their methods of gathering feedback from patrons and program participants had not been efficient or successful. They were  informal: conducted mostly via verbal communication and paper forms, which often went missing or were not entered into a centralized database for future use. 
 
 Accordingly, administrators wanted to develop
-  - a comprehensive, standardized method of collecting usage statistics and feedback from patrons and program participants and
-  - an effective framework for turning that data into meaningful information, whether for the purposes of informing decision-making or providing content for year-end reports, funding requests, or the like.
+  * a comprehensive, standardized method of collecting usage statistics and feedback from patrons and program participants and
+  * an effective framework for turning that data into meaningful information, whether for the purposes of informing decision-making or providing content for year-end reports, funding requests, or the like.
 
 
 ## Methodology
@@ -54,7 +54,6 @@ The few data points that are regularly collected are outcomes (circulation data 
 **Recommendations**: For the purpose of better communicating the needs and expectations for library programs between the administration team with other staff, we recommend the administration team promote internal communication related to program purposes and desired outcomes, while incorporating team communication and collaboration tools such as Slack.
 
 Also, considering the fact that the library does not have a strong resource support in terms of personnel and funding, we recommend leveraging the joint effort of the Library ambassadors and volunteers for easily-implemented feedback collection tasks such as data entry, conducting short follow-up interviews to program participants, and gathering “impact” stories from patrons.
-
 
 
 #### Lack of Organizational Resources

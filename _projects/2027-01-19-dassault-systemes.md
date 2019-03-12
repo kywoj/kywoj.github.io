@@ -25,15 +25,17 @@ Due to confidentiality agreements, I can't discuss the specifics of most of this
 I created these task analysis guidelines and templates for managers and engineers to use in error reporting and documentation development.
 
 ## Methodology
-Throughout this project, I worked with a UX design senior manager. At our first meeting, he explained to me that there was an internal need for some sort of documented explanation or walkthrough of task analyses for non-designers. Site engineers and managers often had to break down a task into its constituent parts or recognize the tasks that comprised a complicated workflow, but there was no consistency in how task analyses were completed, in format or level of specicity.
+Throughout this project, I worked with a UX design senior manager. At our first meeting, he explained to me that there was an internal need for some sort of documented explanation or walkthrough of task analyses for non-designers. Site engineers and managers often had to break down a task into its constituent parts or recognize the tasks that comprised a complicated workflow for the purposes of error reporting and documentation development, but there was no consistency in how task analyses were completed, in format or level of specicity.
 
-After our first meeting, I sketched out some basic templates of what a complete task analysis might look like:
+After our first meeting, I sketched out some basic outlines of what a complete task analysis might look like:
 
 ![](/images/dassault-systemes-sketch.png)
 
-The UX design senior manager and I met again to discuss these templates. He explained that a neat visualization of the tasks wasn't really needed; we didn't want to require non-designers to spend time creating neat and readable diagrams, as the explanation of tasks and subtasks was a much more important outcome of their work.
+The UX design senior manager and I met again to discuss these outlines. He explained that a neat visualization of the tasks wasn't really needed; we didn't want to require non-designers to spend time drawing straight lines and symmetrical boxes to design diagrams. The explanation of tasks and subtasks was a much more important outcome of their work.
 
-With this feedback, I, through many iterations wrote a brief introduction to the process of task analysis and a quasi-form for non-designers to use that would help them break their tasks down to a appropriate level of detail.
+To illustrate this point, I met with a site engineer who was currently working on breaking a complex work process down into its constituent parts. He walked me through the process itself and then how he was approaching the analysis. That conversation highlighted the need for the work I was doing and put me in a better position to effectively empathize with site engineers and managers, those who would be the users of my work.
+
+With this feedback and insight, I, through many iterations, wrote a brief introduction to the process of task analysis and a quasi-form for non-designers to use that would help them break their tasks down to a appropriate level of detail.
 
 This quasi-form, within a Microsoft Word document, is meant to guide site engineers and managers through the analysis process in a manageable way. Rather than have them start from scratch each time, this quasi-form is meant to begin the work of scoping the process for them.
 
@@ -41,7 +43,7 @@ This quasi-form, within a Microsoft Word document, is meant to guide site engine
 ## Outcome
 The last iteration of this document contains two parts: an explanation of task analyses in general and two quasi-forms that can help with the actual process of task analysis. One form is for workflows completed by only one person (shown below), and the other form is for multi-person workflows.
 
-<a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--small">Download Full Document</a>
+<a href="{{ site.url }}/assets/Wojciechowski-TaskAnalysisGuidelines.docx" class="button button--small">Download Full Document</a>
 
 
 ![](/images/dassault-systemes-doc.png)

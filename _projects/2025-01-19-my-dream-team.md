@@ -20,9 +20,9 @@ As part of the Needs Assessment and Usability Evaluation course at the Universit
 
 
 ## Background
-Members of the Sonic Research Group indicated that, in building My Dream Team, they wanted to leverage more than 50 years of research on intergroup dynamics to help people form effective teams.
+Members of the Sonic Research Group leveraged more than 50 years of research on intergroup dynamics to build My Dream Team.
 
-They described My Dream Team as "more akin to eHarmony than Tinder". That is, in a defined group (like a class), users begin by filling out a survey about themselves and their work preferences. They are then provided with recommendations about who in the group they might work best with.
+Meant to help people form effective teams, My Dream Team was described as "more akin to eHarmony than Tinder". That is, in a defined group (like a class), users begin by filling out a survey about themselves and their work preferences. They are then provided with recommendations about who in the group they might work best with.
 
 The Sonic Research Group conducted preliminary usability research on My Dream Team during a pilot at the University of Buenos Aires, so our team conducted a more in-depth suite of studies, providing recommendations for improvement.
 
@@ -60,7 +60,7 @@ Generally, we hoped to answer the following research questions:
 * To what extent do team-formation tools and websites facilitate or allow team interaction and collaboration on the tool or website?
 
 From our analysis, we found that
-* For team-formation tools and websites that have a sign-up process that takes, on average, between 31 and 60 minutes, an explicit save option or an autosave feature and indicator of such is helpful in communicating to users that they don't have to complete the lengthy sign-up process in one sitting. 
+* For team-formation tools and websites that have a sign-up process that takes, on average, between 31 and 60 minutes, an explicit save option or an autosave feature and indicator of such is helpful to communicate to users that they don't have to complete the lengthy sign-up process in one sitting. 
 * During the team-formation process, the ability to see which people have already joined a team and to join ‘formed-but-not-full’ teams eliminates a lot of guesswork on the part of a user seeking to join a team.
 
 
