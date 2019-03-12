@@ -3,7 +3,7 @@ title: Resume
 subtitle:
 featured_image:
 ---
-<a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--large">Download PDF</a>
+<a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--small">Download PDF</a>
 
 ### Education
 Master of Science, Information<br/>
