@@ -94,21 +94,21 @@ After snynthesizing data from these four research methods, we derived UX require
 
 **1. Must have:** Create a separate space for healing after a pregnancy loss – avoid pushing users immediately back into a fertility- or period-tracking solution.
 
-**2. Should have:** Provide actionable advice that helps users address the psychological, emotional, and mental effects of pregnancy loss.
+**2. Must have:** Provide ways to users to make sense of their loss.
 
-**3. Should have:** Provide educational articles and other tools that help users stay informed about the physical effects of pregnancy loss.
+**3. Must have:** Avoid “magical thinking” – don’t avoid communicating the hard truths about the prevalence and pain of pregnancy loss, in addition to other complications associated with pregnancy.
 
-**4. Should have:** Provide ways to communicate with others who’ve experienced pregnancy loss, whether in a user’s social circle or not.
+**4. Must have:** Don’t “reinvent the wheel” – don’t include features that are currently well-established in popular pregnancy-, period-, and fertility-tracking periods.
 
-**5. Should have:** Provide ways for users to memorialize their loss.
+**5. Should have:** Provide actionable advice that helps users address the psychological, emotional, and mental effects of pregnancy loss.
 
-**6. Must have:** Provide ways to users to make sense of their loss.
+**6. Should have:** Provide educational articles and other tools that help users stay informed about the physical effects of pregnancy loss.
 
-**7. Must have:** Avoid “magical thinking” – don’t avoid communicating the hard truths about the prevalence and pain of pregnancy loss, in addition to other complications associated with pregnancy.
+**7. Should have:** Provide ways to communicate with others who’ve experienced pregnancy loss, whether in a user’s social circle or not.
 
-**8. Nice to have:** Use dignified, clear, validating language – no niceties.
+**8. Should have:** Provide ways for users to memorialize their loss.
 
-**9. Must have:** Don’t “reinvent the wheel” – don’t include features that are currently well-established in popular pregnancy-, period-, and fertility-tracking periods.
+**9. Nice to have:** Use dignified, clear, validating language – no niceties.
 
 
 ## Design Concept
