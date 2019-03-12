@@ -34,7 +34,7 @@ My team and I began by conducting a series of interviews with five people who ha
 * What are people's biggest frustrations with current methods of team formation?
 * How do people assess the effectiveness of their teams?
 
-After transcribing our interview recordsings and analyzing and synthesizing the data, we found that
+After transcribing our interview recordings and analyzing and synthesizing the data, we found that
 * Most people who form teams on their own, whether for curricular or extracurricular purposes, value having a social connection with and being able to trust their potential teammates.
 * Relatedly, most people leveraged their social connections to find potential teammates; none had used a tool similar to My Dream Team to do this before.
 * Most people indicated that taking time to evaluate the success or failure of a team is an important aspect of team formation, but most didn't regularly do this. 
