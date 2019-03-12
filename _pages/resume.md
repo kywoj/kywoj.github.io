@@ -65,7 +65,7 @@ Jan. 2016 – Apr. 2017<br/>
 Jan. 2019 – Present<br/>
   * Work as part of a 4-person team to conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
-<br/>**UX Researcher**<br/>
+**UX Researcher**<br/>
 <a href="{{ site.url }}/project/my-dream-team">My Dream Team</a>, SONIC Research Group @ Northwestern University<br/>
 Jan. 2018 – Apr. 2018<br/>
   * Worked as part of a 5-person team to conduct research studies on a team-formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
