@@ -63,17 +63,17 @@ Jan. 2016 – Apr. 2017<br/>
 **UX Researcher, Writer, & Designer**<br/>
 <a href="{{ site.url }}/project/expectant">Expectant</a><br/>
 Jan. 2019 – Present<br/>
-  * Work as part of a 4-person team to conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
+* Conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
-**UX Researcher**<br/>
+<br/>**UX Researcher**<br/>
 <a href="{{ site.url }}/project/my-dream-team">My Dream Team</a>, SONIC Research Group @ Northwestern University<br/>
 Jan. 2018 – Apr. 2018<br/>
-  * Worked as part of a 5-person team to conduct research studies on a team-formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
+  * Planned and launched a series of research studies on a team-formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
 
 <br/>**Service Designer**<br/>
 <a href="{{ site.url }}/project/flint-public-library">Flint Public Library</a><br/>
 Aug. 2017 – Dec. 2017<br/>
-  * Worked as part of a 4-person team to conduct a series of contextual inquiries and develop a comprehensive method of collecting usage statistics and feedback from patrons.
+  * Designed a series of contextual inquiries and developed a comprehensive method of collecting usage statistics and feedback from patrons.
 
 <br/>
 
