@@ -63,7 +63,7 @@ Jan. 2016 – Apr. 2017<br/>
 **UX Researcher, Writer, & Designer**<br/>
 <a href="{{ site.url }}/project/expectant">Expectant</a><br/>
 Jan. 2019 – Present<br/>
-* Conducted secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
+* Conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
 <br/>**UX Researcher**<br/>
 <a href="{{ site.url }}/project/my-dream-team">My Dream Team</a>, SONIC Research Group @ Northwestern University<br/>
