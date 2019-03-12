@@ -2,7 +2,7 @@
 title: 'Flint Public Library'
 date: 2018-06-30 00:00:00
 featured_image: '/images/flint-public-library.png'
-subtitle: 'Conducted a series of contextual inquiries and developed a comprehensive method of collecting usage statistics and feedback from patrons.'
+subtitle: Designed a series of contextual inquiries and developed a comprehensive method of collecting usage statistics and feedback from patrons.
 ---
 
 ![](/images/flint-public-library-logo.png)
