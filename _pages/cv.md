@@ -36,9 +36,9 @@ Oct. 2017 – Present<br/>
 * Analyze complex, open-ended survey responses to identify task-specific requirements.
 * Design research artifacts to facilitate data-informed administrative decision-making.
 
-  <br/>**Instructional Design Fellow**<br/>
+<br/>**Instructional Design Fellow**<br/>
 Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
-Oct. 2017 – Apr. 2017<br/>
+Oct. 2017 – Apr. 2018<br/>
   * Developed course modules according to Universal Design principles.
   * Conducted focus groups and usability tests.
 
