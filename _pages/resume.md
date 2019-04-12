@@ -82,7 +82,7 @@ Aug. 2017 – Dec. 2017<br/>
 
 Desai, M., Niu, S., Tambala, H., **Wojciechowski, K.**, & Xu, Y. (2019, Apr.). CUTgroup Detroit: Testing the Detroit Assistant tool. Presented at the UMSI Student Exposition in Ann Arbor, MI.
 
-Jessamy, C., Nash, D., O'Sullivan, K., & **Wojciechowski, K.** & Wong, N. (2019, Apr.). Expectant: A mobile app that helps you tell your pregnancy story. Presented at the UMSI Student Exposition in Ann Arbor, MI.
+Jessamy, C., Nash, D., O'Sullivan, K., & **Wojciechowski, K.** (2019, Apr.). Expectant: A mobile app that helps you tell your pregnancy story. Presented at the UMSI Student Exposition in Ann Arbor, MI.
 
 Baranek, T., Kloc, M., & **Wojciechowski, K.** (2019, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
 
