@@ -101,6 +101,7 @@ Jan. 2013 – Apr. 2017<br/>
 
 | Role | Organization | Start Date | End Date |
 |------------------------------------|------------------------------------------------------|----------------------| ----------------------|
+| Researcher | CUTgroup Detroit | Mar. 2019 | Apr. 2019 |
 | Local Organizer | Ann Arbor World Information Architecture Day | Oct. 2018 | Feb. 2019 |
 | Local Volunteer | Ann Arbor World Information Architecture Day | Oct. 2017 | Feb. 2018 |
 | Member | Student Organization for Computer-Human Interaction | Aug. 2017 | Present |
@@ -131,6 +132,7 @@ Jan. 2013 – Apr. 2017<br/>
 
 | Award | Date |
 |---------------------------------------------------------------------------------|-------------------|
+| Faculty Choice Award, UMSI Student Exposition | Apr. 2019 |
 | Outstanding Graduate in Professional & Technical Writing Program | May 2017 |
 | Mayme Hamilton Award for Excellence in Tutoring | Apr. 2017 |
 | Braun Award for Writing Excellence in the College of Arts & Behavioral Sciences | Apr. 2017 |
@@ -147,13 +149,21 @@ Jan. 2013 – Apr. 2017<br/>
 <br/>
 
 ### Presentations
-**Wojciechowski, K.** (2018, Sept.) Words as material, writing as interfacing: Observations & a call to action from the middle. Keynote presented at a meeting of Corridors (the Great Lakes Writing and Rhetoric Conference) in University Center, MI.
+*Wojciechowski, K.** (2019, Apr.). From quick findings to formal reports: When and why to use which in user & design research. Presented at the Academic Innovation Student Showcase in Ann Arbor, MI.
 
-**Wojciechowski, K.** & Wong, N. (2018, May). <a href="http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf">Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules</a>. Presented at a meeting of LOEX in Houston, TX.
+Desai, M., Niu, S., Tambala, H., **Wojciechowski, K.**, & Xu, Y. (2019, Apr.). CUTgroup Detroit: Testing the Detroit Assistant tool. Presented at the UMSI Student Exposition in Ann Arbor, MI.
 
-Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.) Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+Jessamy, C., Nash, D., O'Sullivan, K., & **Wojciechowski, K.** & Wong, N. (2019, Apr.). Expectant: A mobile app that helps you tell your pregnancy story. Presented at the UMSI Student Exposition in Ann Arbor, MI.
 
-**Wojciechowski, K.** (2018, Mar.). Designing for somebody: How to truly know your users & what they do. Presented at a meeting of MidCamp in Chicago, IL.
+Baranek, T., Kloc, M., & **Wojciechowski, K.** (2019, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+
+**Wojciechowski, K.** (2018, Sept.). Words as material, writing as interfacing: Observations & a call to action from the middle. Keynote presented at Corridors (the Great Lakes Writing and Rhetoric Conference) in University Center, MI.
+
+**Wojciechowski, K.** & Wong, N. (2018, May). [Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules](http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf). Presented at a meeting of LOEX in Houston, TX.
+
+Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+
+**Wojciechowski, K.** (2018, Mar.). Designing for somebody: How to truly know your users & what they do. Presented at MidCamp in Chicago, IL.
 
 **Wojciechowski, K.** (2017, Mar.). Navigating students’ experiences with WCONLINE®: Preliminary results and recommendations of a usability study of the WCONLINE® platform. Presented at a meeting of the East Central Writing Centers Association in Dowagiac, MI.
 
