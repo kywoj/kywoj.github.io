@@ -6,11 +6,11 @@ featured_image:
 <a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--small">Download PDF</a>
 
 ### Education
-Master of Science, Information<br/>
+**Master of Science in Information**<br/>
 UX Research & Design<br/>
 University of Michigan, May 2019
-
-Bachelor of Arts, Professional & Technical Writing<br> 
+<br/>
+**Bachelor of Arts in Professional & Technical Writing**<br> 
 _magna cum laude_<br/>
 Saginaw Valley State University, May 2017<br/>
 
