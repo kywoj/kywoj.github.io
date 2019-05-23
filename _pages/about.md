@@ -13,6 +13,6 @@ My background is in words: in college, I studied technical communication and wor
 
 I became much more invested and interested in how people used my words to perform tasks or reach their goals after doing some informal usability testing in a documentation course, so I enrolled in the University of Michigan's School of Information to study research and design.
 
-**I’ve just graduated with my Master of Science degree from the University of Michigan. I'll start working as a UX Researcher at CVS in Cumberland, Rhode Island, in June.**
+**I’ve just graduated with my Master of Science degree from the University of Michigan. I'm now a UX Researcher at CVS in Cumberland, Rhode Island.**
 
 Reach me at kywoj [at] umich.edu. 
