@@ -16,9 +16,13 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 <br/>
 
 ### Experience
+**Research Assistant**<br/>
+U-M School of Information: Ann Arbor, MI<br/>
+Mar. 2019 – Present<br/>
+
 **Behavioral Science Fellow**<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
-Sept. 2018 – Present<br/>
+Sept. 2018 – May 2019<br/>
   * Design and conduct series of surveys, interviews, and usability tests for web-based academic tools, including Tandem, eCoach, and Sage.
 
 <br/>**User Experience Research & Design Intern**<br/>
@@ -31,7 +35,7 @@ May 2018 – Aug. 2018<br/>
 
 <br/>**User Experience Research Intern**<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
-Oct. 2017 – Present<br/>
+Oct. 2017 – May 2019<br/>
  * Interview stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
 * Analyze complex, open-ended survey responses to identify task-specific requirements.
 * Design research artifacts to facilitate data-informed administrative decision-making.
