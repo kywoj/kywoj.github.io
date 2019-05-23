@@ -20,6 +20,7 @@ Saginaw Valley State University, May 2017<br/>
 **Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
 Mar. 2019 – Present<br/>
+<br/>
   
 **Behavioral Science Fellow**<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
