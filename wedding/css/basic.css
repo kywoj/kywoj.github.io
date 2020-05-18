@@ -1,0 +1,319 @@
+/* BODY AND OTHER BASICS */
+body {
+    padding: 45px;
+    background-color: #f2f3f4;
+
+}
+
+a {
+    color: #1d2951;
+    text-decoration: none;
+}
+
+a:hover {
+}
+a:focus {
+    color: #1d2951;
+}
+a:active {
+    font-weight: bold;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.flex-container-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+
+/* FONTS */
+
+@font-face {
+    font-family: 'Northwell Clean Swash';
+    src: url('../assets/fonts/NorthwellCleanSwash.woff2') format('woff2'),
+        url('../assets/fonts/NorthwellCleanSwash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Northwell';
+    src: url('../assets/fonts/Northwell.woff2') format('woff2'),
+        url('../assets/fonts/Northwell.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Northwell Alt';
+    src: url('../assets/fonts/NorthwellAlt.woff2') format('woff2'),
+        url('../assets/fonts/NorthwellAlt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Northwell Swash';
+    src: url('../assets/fonts/NorthwellSwash.woff2') format('woff2'),
+        url('../assets/fonts/NorthwellSwash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Northwell Clean';
+    src: url('../assets/fonts/NorthwellClean.woff2') format('woff2'),
+        url('../assets/fonts/NorthwellClean.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Northwell Clean Alt';
+    src: url('../assets/fonts/NorthwellCleanAlt.woff2') format('woff2'),
+        url('../assets/fonts/NorthwellCleanAlt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  /*text-align: center;*/
+  display: inline;
+  font-size: 150px;
+  font-family: 'Northwell Clean';
+
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 400;
+
+}
+
+h3 {
+    font-family: 'Northwell Clean';
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.name {
+  text-align: center;
+}
+
+p, div, li, a, .overlay {
+  font-family: 'Heebo';
+  color: #1d2951;
+  font-weight: 300;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+
+
+/* NAV */
+nav {
+ width: 100%;
+  /*border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;*/
+    text-align:right;*/
+}
+
+nav ul {
+ padding: 0;
+ margin: 0;
+}
+
+nav ul li {
+ display: inline;
+ list-style-type: none;
+ margin: 0;
+ padding: 12px 0;
+}
+
+nav ul li:hover {
+ font-weight: 500;
+}
+
+.active {
+    font-weight: 500;
+}
+
+nav ul li a {
+ color: #1d2951;
+ display:inline-block;
+ text-decoration: none;
+ padding: 15px;
+}
+ nav ul li a:hover {
+ font-weight: 500;
+}
+
+a:hover {
+  font-weight: 500;
+}
+
+.button1 {
+  background-color: #1d2951;
+  border: none;
+  
+  padding: 15px 32px;
+  border-radius: 8px;
+ 
+  display: block;
+  max-width: 300px;
+  transition-duration: 0.4s;
+  margin: auto;}
+
+.button1 a {
+font-family: 'Heebo';
+color: #ffffff;
+font-size: 15px;
+font-weight: 300;
+text-align: center;
+text-decoration: none;
+
+}
+
+
+/* FOOTER */
+footer {
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 8px;
+}
+
+.icons {
+    display: inline-block;
+}
+
+.icon {
+    width: 10%;
+}
+
+
+
+/* FRONT PAGE MAIN */
+.main {
+    display: grid;
+    grid-template-columns: 2% 96% 2%;
+}
+
+.fp-portfolio {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 200px;
+}
+
+.contain {
+  position: relative;
+  border: 1px black solid;
+  width: auto;
+}
+
+
+
+/* IMG CONSTRAINTS & OVERLAYS */
+
+.contain img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.fit {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #5C80BC;
+}
+
+.contain:hover .overlay {
+  opacity: 0.9;
+}
+
+.overlay {
+  color: white;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 130px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.headshot {
+  width: 20%;
+  float:left; 
+  padding: 0px 20px 0px 0px;
+}
+
+
+/* TABLE */
+table {
+  width: 100%;
+}
+
+.role {
+  width: 75%;
+}
+
+.date {
+  width: 25%;
+}
+
+
+/* MISC */
+
+
+
+tr:nth-child(even) {
+  background-color: #1d2951;
+}
+
+.readmore {
+  font-size: 10px;
+  border: 1px solid black;
+  padding: 4px;
+}
+
+.back {
+  font-size: 10px;
+  border: 1px solid black;
+  padding: 4px;
+  background-image: url("../images/bg.png");
