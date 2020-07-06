@@ -61,7 +61,7 @@ a:active {
     src: url('../assets/fonts/NorthwellClean.woff2') format('woff2'),
         url('../assets/fonts/NorthwellClean.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: normal;x
 }
 
 @font-face {
@@ -103,6 +103,17 @@ p, div, li, a, .overlay {
   font-weight: 300;
 }
 
+#form-q {
+  font-weight: bold;
+  display: block;
+}
+
+#form-hint {
+  font-size: 10px;
+  margin: 0;
+}
+
+
 @media screen and (min-width: 650px) {
   h1, .footer-text {
     font-size: 150px;
@@ -116,7 +127,7 @@ p, div, li, a, .overlay {
     font-size: 45px;
   }
 
-  p, div, li, a {
+  p, div, li, a, #form-q {
     font-size: 15px;
   }
 }
@@ -134,7 +145,7 @@ p, div, li, a, .overlay {
     font-size: 30px;
   }
 
-  p, div, li, a  {
+  p, div, li, a, #form-q  {
     font-size: 12px;
   }
 }
