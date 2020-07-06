@@ -173,7 +173,7 @@ nav a {
  padding: 15px;
 }
 
-.button {
+button {
   background-color: #1d2951;
   border: none;
   
@@ -185,7 +185,7 @@ nav a {
   transition-duration: 0.4s;
   margin: auto;}
 
-.button a {
+button a {
   font-family: 'Heebo';
   color: #ffffff;
   font-size: 15px;
