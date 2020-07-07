@@ -112,8 +112,8 @@ input[type=text] {
   width: 75%;
   padding: 10px 15px;
   margin: 6px 0;
-  border: 1px solid #1d2951;
-  border-radius: 2px;
+  /*border: 1px solid #1d2951;
+  border-radius: 2px;*/
 }
 
 #form-hint {
@@ -164,7 +164,7 @@ input[type=text] {
 hr.style-two {
     border: 0;
     height: 1px;
-    background: #333;
+    background: #1d2951;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
@@ -203,6 +203,7 @@ nav a {
 }
 
 button, input[type=submit] {
+  -webkit-appearance: none;
   background-color: #1d2951;
   border: none;
   color: #ffffff;
