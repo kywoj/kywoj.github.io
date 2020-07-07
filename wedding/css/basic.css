@@ -16,7 +16,7 @@ a:focus {
     color: #fffff;
 }
 
-a:hover {
+a:hover,input[type=submit]:hover {
   font-weight: bold;
 }
 
@@ -89,7 +89,7 @@ h3 {
     text-align: center;
 }
 
-.bridal {
+.bridal, .no-margin {
   margin: 0
 }
 
@@ -108,11 +108,22 @@ p, div, li, a, .overlay {
   display: block;
 }
 
+input[type=text] {
+  width: 75%;
+  padding: 10px 15px;
+  margin: 6px 0;
+  border: 1px solid #1d2951;
+  border-radius: 2px;
+}
+
 #form-hint {
-  font-size: 10px;
+  font-size: 12px;
   margin: 0;
 }
 
+.rsvp {
+  margin: 0px;
+}
 
 @media screen and (min-width: 650px) {
   h1, .footer-text {
@@ -123,7 +134,7 @@ p, div, li, a, .overlay {
     font-size: 30px;
   }
 
-  h3 {
+  h3, .rsvp {
     font-size: 45px;
   }
 
@@ -141,7 +152,7 @@ p, div, li, a, .overlay {
     font-size: 20px;
   }
 
-  h3 {
+  h3, .rsvp {
     font-size: 30px;
   }
 
@@ -150,10 +161,17 @@ p, div, li, a, .overlay {
   }
 }
 
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
 /******************************************/
 
 
-/* NAVIGATION */
+/* NAVIGATION & BUTTONS */
 nav {
  width: 100%;
  text-align:right;*/
@@ -184,17 +202,19 @@ nav a {
  padding: 15px;
 }
 
-button {
+button, input[type=submit] {
   background-color: #1d2951;
   border: none;
-  
+  color: #ffffff;
+  font-size: 15px;
   padding: 15px 32px;
   border-radius: 8px;
  
   display: block;
-  max-width: 300px;
-  transition-duration: 0.4s;
-  margin: auto;}
+  max-width: 500px;
+  margin: auto;
+
+}
 
 button a {
   font-family: 'Heebo';
@@ -204,6 +224,7 @@ button a {
   text-align: center;
   text-decoration: none;
 }
+
 
 
 /******************************************/
@@ -220,7 +241,6 @@ footer {
 img {
   width:300px;
 }
-
 
 
 /******************************************/
@@ -253,4 +273,5 @@ img {
     flex-direction: column;
   }
 }
+
 
