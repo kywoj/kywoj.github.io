@@ -4,7 +4,7 @@ subtitle:
 featured_image:
 ---
 <a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--small">Download PDF</a><br/>
-Last updated Feb. 2019
+(Please note that I last updated this PDF in Feb. 2019.)
 
 ### Education
 **Master of Science in Information**<br/>
