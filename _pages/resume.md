@@ -4,6 +4,7 @@ subtitle:
 featured_image:
 ---
 <a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--small">Download PDF</a>
+Note: PDF last updated Feb. 2019
 
 ### Education
 **Master of Science in Information**<br/>
@@ -17,9 +18,14 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
+**UX Researcher**<br/>
+CVS Health: Cumberland, RI<br/>
+Jun. 2019 – Present<br/>
+<br/>
+
 **Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
-Mar. 2019 – Present<br/>
+Mar. 2019 – May 2020<br/>
 <br/>
   
 **Behavioral Science Fellow**<br/>

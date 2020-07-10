@@ -16,9 +16,14 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 <br/>
 
 ### Experience
+**UX Researcher**<br/>
+CVS Health: Cumberland, RI<br/>
+Jun. 2019 – Present<br/>
+<br/>
+
 **Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
-Mar. 2019 – Present<br/>
+Mar. 2019 – May 2020<br/>
 <br/>
 
 **Behavioral Science Fellow**<br/>
