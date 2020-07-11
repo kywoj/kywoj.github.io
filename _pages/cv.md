@@ -29,7 +29,7 @@ Mar. 2019 – May 2020<br/>
 **Behavioral Science Fellow**<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
 Sept. 2018 – May 2019<br/>
-  * Design and conduct series of surveys, interviews, and usability tests for web-based academic tools, including Tandem, eCoach, and Sage.
+  * Designed and conducted series of surveys, interviews, and usability tests for web-based academic tools, including Tandem, eCoach, and Sage.
 
 <br/>**User Experience Research & Design Intern**<br/>
 Dassault Systèmes: Johnston, RI<br/>
@@ -42,9 +42,9 @@ May 2018 – Aug. 2018<br/>
 <br/>**User Experience Research Intern**<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
 Oct. 2017 – May 2019<br/>
- * Interview stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
-* Analyze complex, open-ended survey responses to identify task-specific requirements.
-* Design research artifacts to facilitate data-informed administrative decision-making.
+ * Interviewed stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
+* Analyzed complex, open-ended survey responses to identify task-specific requirements.
+* Designed research artifacts to facilitate data-informed administrative decision-making.
 
 <br/>**Instructional Design Fellow**<br/>
 Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
