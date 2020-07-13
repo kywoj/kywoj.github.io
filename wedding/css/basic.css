@@ -207,7 +207,7 @@ button, input[type=submit] {
   background-color: #1d2951;
   border: none;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 13px;
   padding: 15px 32px;
   border-radius: 8px;
  
@@ -220,7 +220,7 @@ button, input[type=submit] {
 button a {
   font-family: 'Heebo';
   color: #ffffff;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 300;
   text-align: center;
   text-decoration: none;
@@ -252,7 +252,7 @@ footer {
   .flex-container {
   display: flex;
   justify-content: space-around;
-  gap: 20px 5px;
+  gap: 20px 60px;
 }
 
 .flex-container-wrap {
