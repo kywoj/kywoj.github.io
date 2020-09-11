@@ -4,7 +4,7 @@ subtitle:
 featured_image:
 ---
 <a href="{{ site.url }}/assets/Wojciechowski-Resume.pdf" class="button button--small">Download PDF</a><br/>
-(Please note that I last updated this PDF in Feb. 2019.)
+
 
 ### Education
 **Master of Science in Information**<br/>
@@ -21,17 +21,20 @@ Saginaw Valley State University, May 2017<br/>
 **UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Present<br/>
-<br/>
+  * Conduct remote interviews and other research activities with customers and patients to learn about their opinions, behaviors, beliefs, and preferences. 
+  * Document and synthesize learnings to create reports and share recommendations with stakeholders to ensure that upcoming and in-progress design work is usable and useful for customers and patients.
+
 
 **Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
 Mar. 2019 – May 2020<br/>
-<br/>
+  * Collaborated  with three U-M professors to conduct more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss, analyzed and coded the transcripts, and contributed to academic articles about how we can better design technology to support marginalized people who experience pregnancy loss.
+
   
 **Behavioral Science Fellow**<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
 Sept. 2018 – May 2019<br/>
-  * Designed and conducted series of surveys, interviews, and usability tests for web-based academic tools, including Tandem, eCoach,  and Sage.
+  * Designed and conducted series of surveys, interviews, and usability studies focused on improving student-facing academic tools and then analyzed and communicated findings and recommendations to stakeholders.
 
 <br/>**User Experience Research & Design Intern**<br/>
 Dassault Systèmes: Johnston, RI<br/>
