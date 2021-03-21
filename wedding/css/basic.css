@@ -127,7 +127,7 @@ input[type=text] {
   margin: 0;
 }
 
-.main {
+.rsvp {
   margin: 20px;
 }
 
@@ -144,7 +144,7 @@ hr.style-two {
   color: white;
 }
 
-.non-hero {
+.non-hero, .rsvp {
   padding: 45px;
 
 }
