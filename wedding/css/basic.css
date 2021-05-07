@@ -159,11 +159,12 @@ hr.style-two {
 }
 
 
-.rsvp-text {
+.rsvp-text
+{
   display: inline;
-  font-size: 100px;
+  font-size: 75px;
   font-family: 'Northwell Clean';
-  color: #f2f3f4;
+  color:#1d2951
 }
 
 /******************************************/
