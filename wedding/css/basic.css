@@ -119,8 +119,8 @@ input[type=text] {
   padding: 10px 15px;
   margin: 6px 0;
   background-color: #f2f3f4;
-  /*border: 1px solid #1d2951;
-  border-radius: 2px;*/
+  border: 1px solid #1d2951;
+  border-radius: 2px;
 }
 
 #form-hint {
