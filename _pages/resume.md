@@ -18,7 +18,7 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
-**UX Researcher**<br/>
+**Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Present<br/>
   * Conduct remote interviews and other research activities with customers and patients to learn about their opinions, behaviors, beliefs, and preferences. 
