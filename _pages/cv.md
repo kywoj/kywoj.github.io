@@ -16,7 +16,7 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 <br/>
 
 ### Experience
-**UX Researcher**<br/>
+**Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Present<br/>
   * Conduct remote interviews and other research activities with customers and patients to learn about their opinions, behaviors, beliefs, and preferences. 
