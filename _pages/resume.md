@@ -118,7 +118,7 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Pres
 
 ### Skills
 #### Research
-  * *Execution methods*:
+*Execution methods*:
   * Card sorts
   * Competitive analyses
   * Contextual inquiries
@@ -129,7 +129,7 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Pres
   * Usability tests 
   * User interviews
   * Workshops
-  * *Synthesis methods*:
+*Synthesis methods*:
   * Affinity diagrams
   * Flow models
   * Thematic analysis
