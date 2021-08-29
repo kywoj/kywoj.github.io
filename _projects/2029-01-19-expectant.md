@@ -10,7 +10,7 @@ subtitle: Conducted secondary research, competitive feature analyses, and interv
 
 **Role:** Project Manager, UX Researcher, Writer & Designer
 
-**Timeline:** Jan. 2019 – Present
+**Timeline:** Jan. 2019 – May 2019
 
 ***
 
