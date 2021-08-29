@@ -2,7 +2,7 @@
 title: 'Expectant'
 date: 2018-06-30 00:00:00
 featured_image: '/images/expectant.png'
-subtitle: Conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
+subtitle: Conducted secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 ---
 
 ![](/images/expectant-logo.png)
@@ -15,7 +15,7 @@ subtitle: Conduct secondary research, competitive feature analyses, and intervie
 ***
 
 ## Overview
-As part of the UX Research & Design Mastery Course at the University of Michigan (SI*699), my team and I are in the process of developing an app that helps people tell their pregnancy stories through directed journaling and narrative visualization, offering tailored support resources and access to community forums in cases of loss.
+As part of the UX Research & Design Mastery Course at the University of Michigan (SI*699), my team and I designed an app that helps people tell their pregnancy stories through directed journaling and narrative visualization, offering tailored support resources and access to community forums in cases of loss.
 
 ## Background
 This project started as a way to address the often unconsidered experience of pregnancy loss for users of pregnancy-tracking apps. Up to 20% of known pregnancies result in loss, but most apps aren’t designed to handle this use case in a dignified, careful way or even at all.
