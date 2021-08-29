@@ -21,20 +21,23 @@ Saginaw Valley State University, May 2017<br/>
 **Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Present<br/>
-  * Conduct remote interviews and other research activities with customers and patients to learn about their opinions, behaviors, beliefs, and preferences. 
-  * Document and synthesize learnings to create reports and share recommendations with stakeholders to ensure that upcoming and in-progress design work is usable and useful for customers and patients.
-
+  * Articulate, scope, and prioritize research objectives for eight agile teams during Program Increment (PI) planning.
+  * Plan and conduct generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
+  * Develop departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
 
 <br/>**Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
 Mar. 2019 – May 2020<br/>
-  * Collaborated  with three U-M professors to conduct more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss, analyzed and coded the transcripts, and contributed to academic articles about how we can better design technology to support marginalized people who experience pregnancy loss.
+  * Collaborated with three U-M professors to facilitate more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss.
+  * Conducted thematic analysis and coded interview transcripts in Dedoose.
+  * Contributed to academic articles about how technology can better support marginalized people who experience pregnancy loss.
 
   
 <br/>**Behavioral Science Fellow**<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
 Sept. 2018 – May 2019<br/>
-  * Designed and conducted series of surveys, interviews, and usability studies focused on improving student-facing academic tools and then analyzed and communicated findings and recommendations to stakeholders.
+  * Designed and executed surveys, interviews, and usability studies of student tools in the Center’s portfolio, including eCoach, Tandem and Sage.
+  * Analyzed and synthesized learnings and presented findings and actionable recommendations to design and development teams.
 
 <br/>**User Experience Research & Design Intern**<br/>
 Dassault Systèmes: Johnston, RI<br/>
@@ -47,9 +50,8 @@ May 2018 – Aug. 2018<br/>
 <br/>**User Experience Research Intern**<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
 Oct. 2017 – May 2019<br/>
- * Interviewed stakeholders across the university to learn how data related to recruitment, applications, and student events are currently managed.
- * Analyzed complex, open-ended survey responses to identify task-specific requirements.
- * Designed research artifacts to facilitate data-informed administrative decision-making.
+ * Interviewed stakeholders across the university and engaged them in participatory design activities to learn how data related to recruitment, applications, and student events were managed.
+ * Analyzed and synthesized learnings and presented findings and actionable recommendations to stakeholders to facilitate data-informed decisions regarding the adoption and implementation of CRM tools.
 
 <br/>**Instructional Design Fellow**<br/>
 Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
@@ -62,7 +64,7 @@ The Dow Chemical Company: Midland, MI <br/>
 Jul. 2016 – Aug. 2017<br/>
   * Distilled 150+ complex work processes modules into instructional documentation in accordance with corporate and functional standards.
   * Collaborated with content owners and SMEs in cross-functional teams to develop, edit, test, and maintain periodic content updates to multi-tenant intranet sites.
-  * Implemented a streamlined information architecture for the Enterprise Data Management intranet site, reducing more than 75 redundant pages and improving efficiency of user tasks.
+  * Implemented a streamlined navigational structure for the Enterprise Data Management intranet site, reducing more than 75 redundant pages and improving efficiency of user tasks.
 
 <br/>**Junior Usability Researcher**<br/>
 Center for Usability Studies and Universal Design: University Center, MI <br/>
@@ -77,7 +79,7 @@ Jan. 2016 – Apr. 2017<br/>
 **UX Researcher, Writer, & Designer**<br/>
 <a href="{{ site.url }}/project/expectant">Expectant</a><br/>
 Jan. 2019 – May 2019<br/>
-* Conduct secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
+* Conducted secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
 <br/>**UX Researcher**<br/>
 <a href="{{ site.url }}/project/my-dream-team">My Dream Team</a>, SONIC Research Group @ Northwestern University<br/>
@@ -116,25 +118,22 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Pres
 
 ### Skills
 #### Research
-  * Affinity diagramming
-  * Card sorting
-  * Competitive analysis
-  * Contextual inquiry
-  * Focus groups
-  * Heuristic evaluation
-  * Interaction mapping
-  * Survey design
-  * Task analysis
-  * Tree testing
-  * Usability testing
-  * User stories and personas
-
-#### Writing
-   * Content strategy
-   * Instructional documentation
-   * Microcopy and UX writing
-   * News reporting
-   * Technical writing and editing
+  * *Execution methods*:
+  * Card sorts
+  * Competitive analyses
+  * Contextual inquiries
+  * Heuristic evaluations
+  * Surveys
+  * Task analyses
+  * Tree tests
+  * Usability tests 
+  * User interviews
+  * Workshops
+  * *Synthesis methods*:
+  * Affinity diagrams
+  * Flow models
+  * Thematic analysis
+  * User personas and stories
 
 #### Design
   * Interaction & experience design
@@ -142,13 +141,12 @@ Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Pres
   * Storyboarding
   * Wireframing
 
-#### Information Architecture
-  * Content models
-  * Journey maps
-  * Navigation
-  * Site maps
-  * Taxonomy
-  * User flows
+#### Writing
+   * Content strategy
+   * Instructional documentation
+   * Microcopy and UX writing
+   * News reporting
+   * Technical writing and editing
 
 #### Programming
   * HTML5 and CSS3
