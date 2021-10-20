@@ -24,6 +24,7 @@ Jun. 2019 – Present<br/>
   * Articulate, scope, and prioritize research objectives for eight agile teams during Program Increment (PI) planning.
   * Plan and conduct generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
   * Develop departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
+  * Promoted from entry-level to mid-level in October 2020.
 
 <br/>**Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
