@@ -20,7 +20,7 @@ Saginaw Valley State University, May 2017<br/>
 ### Experience
 **UX Researcher & Strategist**<br/>
 Merck<br/>
-Nov. 2021 – Present<br/>
+Nov. 2021 – Present<br/><br/>
 
 
 **Senior UX Researcher**<br/>
