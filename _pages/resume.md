@@ -22,6 +22,7 @@ Saginaw Valley State University, May 2017<br/>
 Merck<br/>
 Nov. 2021 – Present<br/>
 
+
 **Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Nov. 2021<br/>
