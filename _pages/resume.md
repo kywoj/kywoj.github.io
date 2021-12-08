@@ -18,9 +18,13 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
+**UX Researcher & Strategist**<br/>
+Merck<br/>
+Nov. 2021 – Present<br/>
+
 **Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
-Jun. 2019 – Present<br/>
+Jun. 2019 – Nov. 2021<br/>
   * Articulate, scope, and prioritize research objectives for eight agile teams during Program Increment (PI) planning.
   * Plan and conduct generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
   * Develop departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
