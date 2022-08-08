@@ -31,6 +31,7 @@ Jun. 2019 – Nov. 2021<br/>
   * Planned and conducted generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
   * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
 
+
 <br/>**Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
 Mar. 2019 – May 2020<br/>
