@@ -20,11 +20,11 @@ Saginaw Valley State University, May 2017<br/>
 ### Experience
 **UX Researcher**<br/>
 Merck<br/>
-Nov. 2021 – Present<br/><br/>
+Nov. 2021 – Present<br/>
   * Lead all user experience research initiatives for products that enable experiment design and execution within Merck Research Labs’ IT group.
-
-
-**Senior UX Researcher**<br/>
+  
+  
+<br/>**UX Researcher, Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Nov. 2021<br/>
   * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
