@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Ky Wojciechowski
+  site_title: Ky Wojciechowski Julian
   site_tagline:  I'm a researcher, writer, and designer committed to making information easier to use.
   favicon_image: /images/favicon.png
 
@@ -32,7 +32,7 @@ contact_settings:
 
 social_settings:
  #facebook_url: ''
-  #twitter_url: 'https://twitter.com/whrsyrhousekey'
+  #twitter_url: ''
   #instagram_url: ''
   #snapchat_url: ''
   #youtube_url: ''
