@@ -16,17 +16,17 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 <br/>
 
 ### Experience
-**UX Researcher & Strategist**<br/>
+**UX Researcher**<br/>
 Merck<br/>
 Nov. 2021 – Present<br/><br/>
-
+ * Lead all user experience research initiatives for products that enable experiment design and execution within Merck Research Labs’ IT group.
 
 **Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Nov. 2021<br/>
-  * Articulate, scope, and prioritize research objectives for eight agile teams during Program Increment (PI) planning.
-  * Plan and conduct generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
-  * Develop departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
+  * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
+  * Planned and conducted generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
+  * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
 
 <br/>**Research Assistant**<br/>
 U-M School of Information: Ann Arbor, MI<br/>
