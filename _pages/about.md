@@ -13,6 +13,6 @@ My background is in words: in college, I studied technical communication and wor
 
 I became much more invested and interested in how people used my words to perform tasks or reach their goals after doing some informal usability testing in a documentation course, so I enrolled in the University of Michigan's School of Information to study research and design.
 
-**I graduated with my Master of Science degree from the University of Michigan in 2019. I’m currently based in Providence, Rhode Island, working as a UX Researcher at Merck. Previously, I was a Senior UX Researcher at CVS Health.**
+**I graduated with my Master of Science degree from the University of Michigan in 2019. I’m currently based in Michigan, working as a UX Researcher at Merck. Previously, I was a Senior UX Researcher at CVS Health.**
 
 Reach me at kywoj [at] umich.edu. 
