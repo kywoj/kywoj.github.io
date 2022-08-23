@@ -137,11 +137,11 @@ Jan. 2013 – Apr. 2017<br/>
 | Technical & Content Writing Intern | Cardinal Solutions | Aug. 2015 | Apr. 2017 |
 | Assistant Editor | _Writing@SVSU_ | June 2015 | Apr. 2017 |
 | Technical Writing Intern | Altair Engineering | June 2015 | Aug. 2015 |
-| Member | SVSU Professional Journalistic Practices Committee | Apr. 2015 | June 2015 |
+| Member | SVSU Professional Journalistic Practices Committee | Apr. 2015 | July 2016 |
 | Volunteer | Saginaw High ACT Writing Workshop | Feb. 2015 | Mar. 2015
 | Program Coordinator | TEDxSVSU | Jan. 2015 | Sept. 2016 |
 | Social Media Coordinator | SVSU Active Minds | Sept. 2014 | Dec. 2016 |
-| Remote Editor | _The Grassroots Writing Research Journal_ | June 2014 | Dec. 2015 |
+| Editor | _The Grassroots Writing Research Journal_ | June 2014 | Dec. 2015 |
 | Member | Donna J. Roberts Competitive Fellowship | May 2014 | May 2015 |
 | Volunteer | Living Through Literacy | May 2013 | Aug. 2013 |
 | Member | Leopold J. Kantzler Endowed Leadership Fellowship | May 2012 | May 2016 |
