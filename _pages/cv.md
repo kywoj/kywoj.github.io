@@ -126,7 +126,7 @@ Jan. 2013 – Apr. 2017<br/>
 | Researcher | CUTgroup Detroit | Mar. 2019 | Apr. 2019 |
 | Local Organizer | Ann Arbor World Information Architecture Day | Oct. 2018 | Feb. 2019 |
 | Local Volunteer | Ann Arbor World Information Architecture Day | Oct. 2017 | Feb. 2018 |
-| Member | Student Organization for Computer-Human Interaction | Aug. 2017 | Present |
+| Member | Student Organization for Computer-Human Interaction | Aug. 2017 | May 2019 |
 | Steering Committee Volunteer | SVSU Human Library | Feb. 2017 | Apr. 2017 |
 | Publication Designer | Friends of the Bay City State Recreation Area | Oct. 2016 | Jan. 2017 |
 | President | SVSU Association of Professional & Technical Writers | Aug. 2016 | May 2017 |
