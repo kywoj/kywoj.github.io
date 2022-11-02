@@ -214,6 +214,8 @@ Degner, H. Jackson, S., Sterken, A. & **Wojciechowski, K.** (2013, Oct.). Riding
 <br/>
 
 ### Publications
+Andalibi N., Lacombe-Duncan A., Roosevelt, L., **Wojciechowski, K.**, & Giniel, C. (2021). LGBTQ persons' use of online spaces to navigate conception, pregnancy, and pregnancy loss: An intersectional approach. _ACM Transactions on Computer-Human Interaction (TOCHI)._
+
 Degner, H. Giroux, C., & **Wojciechowski, K.** (2015). [Opening closed doors: Creating a safe space for tutors struggling with mental health concerns or illnesses](http://www.praxisuwc.com/degner-et-al-131/). _Praxis, 13_(1).
 
 **Wojciechowski, K.** (2015). [One of many: Examining and reconciling the ‘need to acquiesce’ in composition classrooms](http://isuwriting.com/wp-content/uploads/2015/06/One_of_Many.pdf). _The Grassroots Writing Research Journal, 5_(2).
