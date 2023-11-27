@@ -17,12 +17,12 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 
 ### Experience
 **Adjunct Faculty**<br/>
-Saginaw Valley State University<br/>
+Saginaw Valley State University: University Center, MI<br/>
 Jan. 2023 – Present<br/>
 
 
 <br/>**UX Researcher (Contractor), Senior User Researcher**<br/>
-Merck<br/>
+Merck: Remote<br/>
 Nov. 2021 – Present<br/>
   
   
