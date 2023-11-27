@@ -17,7 +17,7 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 
 ### Experience
 **Adjunct Faculty**<br/>
-Saaginaw Valley State University<br/>
+Saginaw Valley State University<br/>
 Jan. 2023 – Present<br/>
 
 
