@@ -16,10 +16,13 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 <br/>
 
 ### Experience
-**UX Researcher**<br/>
+**Adjunct Faculty**<br/>
+Saaginaw Valley State University<br/>
+Jan. 2023 – Present<br/>
+
+**UX Researcher (Contractor), Senior User Researcher**<br/>
 Merck<br/>
 Nov. 2021 – Present<br/>
-  * Lead all user experience research initiatives for products that enable experiment design and execution within Merck Research Labs’ IT group.
   
   
 <br/>**UX Researcher, Senior UX Researcher**<br/>
