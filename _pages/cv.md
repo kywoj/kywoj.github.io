@@ -20,7 +20,8 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 Saaginaw Valley State University<br/>
 Jan. 2023 – Present<br/>
 
-**UX Researcher (Contractor), Senior User Researcher**<br/>
+
+<br/>**UX Researcher (Contractor), Senior User Researcher**<br/>
 Merck<br/>
 Nov. 2021 – Present<br/>
   
