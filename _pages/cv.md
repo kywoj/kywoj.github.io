@@ -4,17 +4,6 @@ subtitle:
 featured_image:
 ---
 
-### Education
-**Master of Science in Information**<br/>
-UX Research & Design<br/>
-University of Michigan, May 2019
-
-**Bachelor of Arts in Professional & Technical Writing**<br/>
-_magna cum laude_<br/>
-Saginaw Valley State University, May 2017<br/>
-Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisciplinaryLore.pdf">Beyond Anecdotes and Disciplinary Lore: The Case for Usability Research as ‘RAD’ in Writing Center Scholarship</a>
-<br/>
-
 ### Experience
 **Adjunct Faculty**<br/>
 Saginaw Valley State University Department of Rhetoric & Professional Writing: University Center, MI<br/>
@@ -127,6 +116,19 @@ Jan. 2013 – Apr. 2017<br/>
 
 <br/>
 
+### Education
+**Master of Science in Information**<br/>
+UX Research & Design<br/>
+University of Michigan, May 2019
+
+**Bachelor of Arts in Professional & Technical Writing**<br/>
+_magna cum laude_<br/>
+Saginaw Valley State University, May 2017<br/>
+Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisciplinaryLore.pdf">Beyond Anecdotes and Disciplinary Lore: The Case for Usability Research as ‘RAD’ in Writing Center Scholarship</a>
+
+
+<br/>
+
 ### Other Involvements
 
 
@@ -180,6 +182,8 @@ Jan. 2013 – Apr. 2017<br/>
 <br/>
 
 ### Presentations
+Pace, D., **Wojciechowski, K.**, & Yerramilli, S. (2024, Oct.). Integrating UX into GenAI innovation: Case study of the Merck Research Labs UX Team's Impact. Presented at the Pistoia Alliance UX for Life Sciences conference at Novartis campus in Basel, Switzerland.
+
 **Wojciechowski, K.** (2019, Apr.). From quick findings to formal reports: When and why to use which in user & design research. Presented at the Academic Innovation Student Showcase in Ann Arbor, MI.
 
 Desai, M., Niu, S., Tambala, H., **Wojciechowski, K.**, & Xu, Y. (2019, Apr.). CUTgroup Detroit: Testing the Detroit Assistant tool. Presented at the UMSI Student Exposition in Ann Arbor, MI.
