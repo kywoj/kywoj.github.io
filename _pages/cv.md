@@ -6,8 +6,9 @@ featured_image:
 
 ### Experience
 **Adjunct Faculty**<br/>
-Saginaw Valley State University Department of Rhetoric & Professional Writing: University Center, MI<br/>
+Saginaw Valley State University: University Center, MI<br/>
 Jan. 2023 – Present<br/>
+  * Courses taught: RPW 225 - Professional Development in PTW, RPW 300 - Writing in the Professions, RPW 304 - Technical Report Writing, RPW 336 - Grantseeking & Proposal Writing
 
 
 <br/>**Senior User Researcher**<br/>
