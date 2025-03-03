@@ -17,16 +17,21 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 
 ### Experience
 **Adjunct Faculty**<br/>
-Saginaw Valley State University: University Center, MI<br/>
+Saginaw Valley State University Department of Rhetoric & Professional Writing: University Center, MI<br/>
 Jan. 2023 – Present<br/>
 
 
-<br/>**UX Researcher (Contractor), Senior User Researcher**<br/>
+<br/>**Senior User Researcher**<br/>
 Merck: Remote<br/>
-Nov. 2021 – Present<br/>
+Nov. 2022 – Present<br/>
+
+
+<br/>**Contract User Researcher**<br/>
+Merck: Remote<br/>
+Nov. 2021 – Nov. 2022<br/>
+
   
-  
-<br/>**UX Researcher, Senior UX Researcher**<br/>
+<br/>**Senior UX Researcher, UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
 Jun. 2019 – Nov. 2021<br/>
   * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
