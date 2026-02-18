@@ -5,7 +5,7 @@ featured_image:
 ---
 
 
-My name is Kylie (or Kyl, either works) Wojciechowski Julian, and, to answer your question, the trick to pronouncing my name is to say “Where’s your house key?” quickly.
+My name is Kylie (or Ky, either works) Wojciechowski Julian, and, to answer your question, the trick to pronouncing my name is to say “Where’s your house key?” quickly.
 
 Now that that’s out of the way: **I'm a researcher, writer, and designer committed to making information easier to use.**
 
