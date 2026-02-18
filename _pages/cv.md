@@ -11,14 +11,15 @@ Jan. 2023 – Present<br/>
   * Courses taught: RPW 225 - Professional Development in PTW, RPW 300 - Writing in the Professions, RPW 304 - Technical Report Writing, RPW 336 - Grantseeking & Proposal Writing
 
 
-<br/>**Associate Director, Senior User Researcher, Contract User Researcher**<br/>
+**Associate Director** (Nov. 2025 - Present)<br/>
+**Senior User Researcher** (Nov. 2022 - Nov. 2025)<br/>
+**User Researcher (Contract)** (Nov. 2021 - Nov. 2022)<br/>
 Merck<br/>
-Nov. 2021 – Present<br/>
 
   
-<br/>**Senior UX Researcher, UX Researcher**<br/>
+<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)<br/>
+**UX Researcher** (Jun. 2019 – Oct. 2020)<br/>
 CVS Health: Cumberland, RI<br/>
-Jun. 2019 – Nov. 2021<br/>
   * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
   * Planned and conducted generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
   * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
@@ -31,74 +32,63 @@ U-M School of Information: Ann Arbor, MI<br/>
   * Contributed to academic articles about how technology can better support marginalized people who experience pregnancy loss.
 
   
-<br/>**Behavioral Science Fellow**<br/>
+<br/>**Behavioral Science Fellow** (Sept. 2018 – May 2019)<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
-Sept. 2018 – May 2019<br/>
   * Designed and executed surveys, interviews, and usability studies of student tools in the Center’s portfolio, including eCoach, Tandem and Sage.
   * Analyzed and synthesized learnings and presented findings and actionable recommendations to design and development teams.
 
-<br/>**User Experience Research & Design Intern**<br/>
+<br/>**User Experience Research & Design Intern** (May 2018 – Aug. 2018)<br/>
 Dassault Systèmes: Johnston, RI<br/>
-May 2018 – Aug. 2018<br/>
   * Contributed to brand UX specifications and guidelines.
   * Developed templates for task analysis.
   * Designed mixed-mode user surveys.
   * Planned in-person and remote usability studies.
 
-<br/>**User Experience Research Intern**<br/>
+<br/>**User Experience Research Intern** (Oct. 2017 – May 2019)<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
-Oct. 2017 – May 2019<br/>
  * Interviewed stakeholders across the university and engaged them in participatory design activities to learn how data related to recruitment, applications, and student events were managed.
  * Analyzed and synthesized learnings and presented findings and actionable recommendations to stakeholders to facilitate data-informed decisions regarding the adoption and implementation of CRM tools.
 
-<br/>**Instructional Design Fellow**<br/>
+<br/>**Instructional Design Fellow** (Oct. 2017 – Apr. 2018) <br/>
 Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
-Oct. 2017 – Apr. 2018<br/>
   * Developed course modules according to Universal Design principles.
   * Conducted focus groups and usability tests.
 
-<br/>**Information Management Specialist**<br/>
+<br/>**Information Management Specialist** (Jul. 2016 – Aug. 2017)<br/>
 The Dow Chemical Company: Midland, MI <br/>
-Jul. 2016 – Aug. 2017<br/>
   * Distilled 150+ complex work processes modules into instructional documentation in accordance with corporate and functional standards.
   * Collaborated with content owners and SMEs in cross-functional teams to develop, edit, test, and maintain periodic content updates to multi-tenant intranet sites.
   * Implemented a streamlined navigational structure for the Enterprise Data Management intranet site, reducing more than 75 redundant pages and improving efficiency of user tasks.
 
-<br/>**Web Editor**<br/>
+<br/>**Web Editor** (July 2016 – Apr. 2017)<br/>
 _The Valley Vanguard_: University Center, MI <br/>
-July 2016 – Apr. 2017<br/>
   * Strategically managed newspaper’s website and social media accounts, increasing engagement by 15%.
 
-<br/>**Junior Usability Researcher**<br/>
+<br/>**Junior Usability Researcher** (Jan. 2016 – Apr. 2017)<br/>
 Center for Usability Studies and Universal Design: University Center, MI <br/>
-Jan. 2016 – Apr. 2017<br/>
   * Led meetings to gauge client needs and clarify system users and goals.
   * Planned and conducted appropriate, multi-modal studies and evaluations.
   * Presented findings and subsequent recommendations to clients.
 
-<br/>**Editor-in-chief**<br/>
+<br/>**Editor-in-chief** (Apr. 2015 – July 2016)<br/>
 _The Valley Vanguard_: University Center, MI <br/>
-Apr. 2015 – July 2016<br/>
   * Led a 35-person staff to ensure timely production of weekly 6-page newspaper.
   * Created internal style reference guide for reporters, reducing time spent editing by 5+ hours per week.
   * Edited articles and columns for accuracy, adherence to internal and Associated Press guidelines, and clarity.
   * Designed cohesive double-page spreads for digital and print publication.
 
-<br/>**News Editor**<br/>
+<br/>**News Editor** (Apr. 2014 – Apr. 2015)<br/>
 _The Valley Vanguard_: University Center, MI <br/>
-Apr. 2014 – Apr. 2015<br/>
   * Edited articles and columns for accuracy, adherence to internal and Associated Press guidelines, and clarity.
   * Designed cohesive double-page spreads for digital and print publication.
 
-<br/>**General Reporter**<br/>
+<br/>**General Reporter** (Aug. 2013 – Apr. 2014)<br/>
 _The Valley Vanguard_: University Center, MI <br/>
-Aug. 2013 – Apr. 2014<br/>
   * Conducted interviews and gathered information to write [articles of interest](http://www.valleyvanguardonline.com/author/kylie-wojciechowski/) to the campus community.
   * Awarded “Best Lead” and “Best Police Brief” for the 2013-14 AY by editorial staff.
 
-<br/>**Senior Tutor**<br/>
+<br/>**Senior Tutor** Jan. 2013 – Apr. 2017<br/>
 The Diane Boehm Writing Center: University Center, MI <br/>
-Jan. 2013 – Apr. 2017<br/>
   * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”.
   * Developed a <a href="http://www.kywoj.github.io/mla8/index.html">resource</a> to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
   * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017).
@@ -180,6 +170,8 @@ Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisci
 <br/>
 
 ### Presentations
+**Wojciechowski, K.** (2025, Sept.) From insights to impact: Lessons learned from doing business analysis as a UX practitioner. Presented at the Pistoia Alliance UX for Life Sciences conference at Merck campus in Rahway, NJ.
+
 Pace, D., **Wojciechowski, K.**, & Yerramilli, S. (2024, Oct.). Integrating UX into GenAI innovation: Case study of the Merck Research Labs UX Team's Impact. Presented at the Pistoia Alliance UX for Life Sciences conference at Novartis campus in Basel, Switzerland.
 
 **Wojciechowski, K.** (2019, Apr.). From quick findings to formal reports: When and why to use which in user & design research. Presented at the Academic Innovation Student Showcase in Ann Arbor, MI.
