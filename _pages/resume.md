@@ -8,7 +8,7 @@ featured_image:
 
 ### Education
 **Master of Business Administration**<br/>
-Fairleigh Dickinson Online, December 2027
+Fairleigh Dickinson University, December 2027
 
 **Master of Science in Information**<br/>
 UX Research & Design<br/>
