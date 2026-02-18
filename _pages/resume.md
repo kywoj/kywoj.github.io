@@ -7,6 +7,9 @@ featured_image:
 
 
 ### Education
+**Master of Business Administration**<br/>
+Fairleigh Dickinson Online, December 2027
+
 **Master of Science in Information**<br/>
 UX Research & Design<br/>
 University of Michigan, May 2019
@@ -18,11 +21,10 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
-**UX Researcher**<br/>
+<br/>**Associate Director, Senior User Researcher, Contract User Researcher**<br/>
 Merck<br/>
 Nov. 2021 – Present<br/>
-  * Lead all user experience research initiatives for products that enable experiment design and execution within Merck Research Labs’ IT group.
-  
+
   
 <br/>**UX Researcher, Senior UX Researcher**<br/>
 CVS Health: Cumberland, RI<br/>
