@@ -10,9 +10,11 @@ featured_image:
 **Master of Business Administration**<br/>
 Fairleigh Dickinson University, December 2027<br/>
 
+
 **Master of Science in Information**<br/>
 UX Research & Design<br/>
 University of Michigan, May 2019<br/>
+
 
 **Bachelor of Arts in Professional & Technical Writing**<br> 
 _magna cum laude_<br/>
