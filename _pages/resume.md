@@ -21,13 +21,13 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
-<br/>**Associate Director** (Nov. 2025 - Present))<br/>
-<br/>**Senior User Researcher** (Nov. 2022 - Nov. 2025))<br/>
+<br/>**Associate Director** (Nov. 2025 - Present))
+<br/>**Senior User Researcher** (Nov. 2022 - Nov. 2025))
 <br/>**User Researcher (Contract)** (Nov. 2021 - Nov. 2022))<br/>
 Merck<br/>
 
   
-<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)<br/>
+<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)
 <br/>**Senior UX Researcher** (Jun. 2019 – Oct. 2020)<br/>
 CVS Health: Cumberland, RI<br/>
   * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
