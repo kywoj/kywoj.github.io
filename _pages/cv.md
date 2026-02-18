@@ -90,7 +90,7 @@ _The Valley Vanguard_: University Center, MI <br/>
 <br/>**Senior Tutor** (Jan. 2013 – Apr. 2017)<br/>
 The Diane Boehm Writing Center: University Center, MI <br/>
   * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”.
-  * Developed a <a href="http://www.kywoj.github.io/mla8/index.html">resource</a> to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
+  * Developed a <a href="https://kywoj.com/mla8/index.html">resource</a> to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
   * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017).
   * Strategically managed the Center’s social media presence across Facebook and Twitter via Hootsuite.
   * Led more than forty 45-minute Writing Center orientation sessions for nearly 600 composition students.
