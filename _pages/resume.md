@@ -4,7 +4,7 @@ subtitle:
 featured_image:
 ---
 <a href="{{ site.url }}/assets/Wojciechowski_Resume.pdf" class="button button--small">Download PDF</a><br/>
-<small>Last updated Nov. 2021</small><br/>
+<small>PDF last updated Nov. 2021</small><br/>
 
 
 ### Education
