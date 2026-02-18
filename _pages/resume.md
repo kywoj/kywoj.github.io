@@ -21,13 +21,13 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
-**Associate Director** (Nov. 2025 - Present)
-**Senior User Researcher** (Nov. 2022 - Nov. 2025)
+**Associate Director** (Nov. 2025 - Present)<br/>
+**Senior User Researcher** (Nov. 2022 - Nov. 2025)<br/>
 **User Researcher (Contract)** (Nov. 2021 - Nov. 2022)<br/>
 Merck<br/>
 
   
-<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)
+<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)<br/>
 **UX Researcher** (Jun. 2019 – Oct. 2020)<br/>
 CVS Health: Cumberland, RI<br/>
   * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
@@ -84,7 +84,7 @@ Center for Usability Studies and Universal Design: University Center, MI <br/>
 * Conducted secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
 <br/>**UX Researcher** (Jan. 2018 – Apr. 2018)<br/>
-<a href="{{ site.url }}/project/my-dream-team">My Dream Team</a>, SONIC Research Group @ Northwestern University<br/>
+<a href="{{ site.url }}/project/my-dream-team">My Dream Team</a> with SONIC Research Group @ Northwestern University<br/>
   * Planned and launched a series of research studies on a team-formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
 
 <br/>**Service Designer** (Aug. 2017 – Dec. 2017)<br/>
