@@ -11,7 +11,7 @@ Jan. 2023 – Present<br/>
   * Courses taught: RPW 225 - Professional Development in PTW, RPW 300 - Writing in the Professions, RPW 304 - Technical Report Writing, RPW 336 - Grantseeking & Proposal Writing
 
 
-<br/>**Associate Director, Senior User Researcher, Contract User Researcher***<br/>
+<br/>**Associate Director, Senior User Researcher, Contract User Researcher**<br/>
 Merck<br/>
 Nov. 2021 – Present<br/>
 
