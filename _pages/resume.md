@@ -3,7 +3,7 @@ title: Resume
 subtitle:
 featured_image:
 ---
-<a href="{{ site.url }}/assets/Wojciechowski_Resume.pdf" class="button button--small">Download PDF</a>Last updated Nov. 2021<br/>
+<a href="{{ site.url }}/assets/Wojciechowski_Resume.pdf" class="button button--small"><br/><small>Download PDF</a>Last updated Nov. 2021</small><br/>
 
 
 ### Education
