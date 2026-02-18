@@ -21,63 +21,57 @@ Saginaw Valley State University, May 2017<br/>
 <br/>
 
 ### Experience
-<br/>**Associate Director, Senior User Researcher, Contract User Researcher**<br/>
+<br/>**Associate Director** (Nov. 2025 - Present))<br/>
+<br/>**Senior User Researcher** (Nov. 2022 - Nov. 2025))<br/>
+<br/>**User Researcher (Contract)** (Nov. 2021 - Nov. 2022))<br/>
 Merck<br/>
-Nov. 2021 – Present<br/>
 
   
-<br/>**UX Researcher, Senior UX Researcher**<br/>
+<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)<br/>
+<br/>**Senior UX Researcher** (Jun. 2019 – Oct. 2020)<br/>
 CVS Health: Cumberland, RI<br/>
-Jun. 2019 – Nov. 2021<br/>
   * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
   * Planned and conducted generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
   * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
 
 
-<br/>**Research Assistant**<br/>
+<br/>**Research Assistant** (Mar. 2019 – May 2020)<br/>
 U-M School of Information: Ann Arbor, MI<br/>
-Mar. 2019 – May 2020<br/>
   * Collaborated with three U-M professors to facilitate more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss.
   * Conducted thematic analysis and coded interview transcripts in Dedoose.
   * Contributed to academic articles about how technology can better support marginalized people who experience pregnancy loss.
 
   
-<br/>**Behavioral Science Fellow**<br/>
+<br/>**Behavioral Science Fellow** (Sept. 2018 – May 2019)<br/>
 U-M Office of Academic Innovation: Ann Arbor, MI<br/>
-Sept. 2018 – May 2019<br/>
   * Designed and executed surveys, interviews, and usability studies of student tools in the Center’s portfolio, including eCoach, Tandem and Sage.
   * Analyzed and synthesized learnings and presented findings and actionable recommendations to design and development teams.
 
-<br/>**User Experience Research & Design Intern**<br/>
+<br/>**User Experience Research & Design Intern** (May 2018 – Aug. 2018)<br/>
 Dassault Systèmes: Johnston, RI<br/>
-May 2018 – Aug. 2018<br/>
   * Contributed to brand UX specifications and guidelines.
   * Developed templates for task analysis.
   * Designed mixed-mode user surveys.
   * Planned in-person and remote usability studies.
 
-<br/>**User Experience Research Intern**<br/>
+<br/>**User Experience Research Intern** (Oct. 2017 – May 2019)<br/>
 U-M Office of Enrollment Management: Ann Arbor, MI <br/>
-Oct. 2017 – May 2019<br/>
  * Interviewed stakeholders across the university and engaged them in participatory design activities to learn how data related to recruitment, applications, and student events were managed.
  * Analyzed and synthesized learnings and presented findings and actionable recommendations to stakeholders to facilitate data-informed decisions regarding the adoption and implementation of CRM tools.
 
-<br/>**Instructional Design Fellow**<br/>
+<br/>**Instructional Design Fellow** (Oct. 2017 – Apr. 2018)<br/>
 Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
-Oct. 2017 – Apr. 2018<br/>
   * Developed course modules according to Universal Design principles.
   * Conducted focus groups and usability tests.
 
-<br/>**Information Management Specialist**<br/>
+<br/>**Information Management Specialist** (Jul. 2016 – Aug. 2017)<br/>
 The Dow Chemical Company: Midland, MI <br/>
-Jul. 2016 – Aug. 2017<br/>
   * Distilled 150+ complex work processes modules into instructional documentation in accordance with corporate and functional standards.
   * Collaborated with content owners and SMEs in cross-functional teams to develop, edit, test, and maintain periodic content updates to multi-tenant intranet sites.
   * Implemented a streamlined navigational structure for the Enterprise Data Management intranet site, reducing more than 75 redundant pages and improving efficiency of user tasks.
 
-<br/>**Junior Usability Researcher**<br/>
+<br/>**Junior Usability Researcher** (Jan. 2016 – Apr. 2017)<br/>
 Center for Usability Studies and Universal Design: University Center, MI <br/>
-Jan. 2016 – Apr. 2017<br/>
   * Led meetings to gauge client needs and clarify system users and goals.
   * Planned and conducted appropriate, multi-modal studies and evaluations.
   * Presented findings and subsequent recommendations to clients.
@@ -85,19 +79,16 @@ Jan. 2016 – Apr. 2017<br/>
 <br/>
 
 ### Projects
-**UX Researcher, Writer, & Designer**<br/>
+**UX Researcher, Writer, & Designer** (Jan. 2019 – May 2019)<br/>
 <a href="{{ site.url }}/project/expectant">Expectant</a><br/>
-Jan. 2019 – May 2019<br/>
 * Conducted secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
 
-<br/>**UX Researcher**<br/>
+<br/>**UX Researcher** (Jan. 2018 – Apr. 2018)<br/>
 <a href="{{ site.url }}/project/my-dream-team">My Dream Team</a>, SONIC Research Group @ Northwestern University<br/>
-Jan. 2018 – Apr. 2018<br/>
   * Planned and launched a series of research studies on a team-formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
 
-<br/>**Service Designer**<br/>
+<br/>**Service Designer** (Aug. 2017 – Dec. 2017)<br/>
 <a href="{{ site.url }}/project/flint-public-library">Flint Public Library</a><br/>
-Aug. 2017 – Dec. 2017<br/>
   * Designed a series of contextual inquiries and developed a comprehensive method of collecting usage statistics and feedback from patrons.
 
 <br/>
