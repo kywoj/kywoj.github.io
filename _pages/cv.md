@@ -113,6 +113,9 @@ Jan. 2013 – Apr. 2017<br/>
 <br/>
 
 ### Education
+**Master of Business Administration**
+Fairleigh Dickinson University, December 2027
+
 **Master of Science in Information**<br/>
 UX Research & Design<br/>
 University of Michigan, May 2019
