@@ -24,9 +24,8 @@ Jun. 2019 – Nov. 2021<br/>
   * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
 
 
-<br/>**Research Assistant**<br/>
+<br/>**Research Assistant** (Mar. 2019 – May 2020)<br/>
 U-M School of Information: Ann Arbor, MI<br/>
-Mar. 2019 – May 2020<br/>
   * Collaborated with three U-M professors to facilitate more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss.
   * Conducted thematic analysis and coded interview transcripts in Dedoose.
   * Contributed to academic articles about how technology can better support marginalized people who experience pregnancy loss.
