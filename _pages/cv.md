@@ -17,7 +17,7 @@ Nov. 2022 – Present<br/>
 
 
 <br/>**Contract User Researcher**<br/>
-Merckbr/>
+Merck<br/>
 Nov. 2021 – Nov. 2022<br/>
 
   
