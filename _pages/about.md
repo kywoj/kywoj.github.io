@@ -4,9 +4,6 @@ subtitle:
 featured_image:
 ---
 
-
-# About
-
 My name is Kylie—or Ky—Wojciechowski. The easiest way to pronounce my last name is to say “Where’s your house key?” quickly.
 
 I’m a UX and experience strategy leader with a background in research, business analysis, technical communication, and design. I currently work as an Associate Director at Merck, supporting digital products and initiatives within a complex research and development environment.
