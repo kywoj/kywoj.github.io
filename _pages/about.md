@@ -5,14 +5,6 @@ featured_image:
 ---
 
 
-## Site-wide headline
-
-**I lead UX strategy, research, and business analysis for complex products, processes, and organizations.**
-
-I help teams understand difficult problems, align around user and business needs, and turn ambiguity into practical decisions.
-
----
-
 # About
 
 My name is Kylie—or Ky—Wojciechowski. The easiest way to pronounce my last name is to say “Where’s your house key?” quickly.
