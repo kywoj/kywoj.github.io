@@ -1,9 +1,9 @@
 # I'm Kylie.
 
-I'm a researcher, writer, and designer committed to making information easier to use.
+I lead UX strategy, research, and business analysis for complex digital products and organizational challenges.
 
-I graduated with my Bachelor of Arts in Professional & Technical Communication from Saginaw Valley State University in 2017 and my Master of Science degree from the University of Michigan in 2019. I’m currently based in Michigan, working as an Associate Director at Merck.
+I help teams understand users, clarify ambiguous problems, align stakeholders, improve workflows, and turn research into practical product and business decisions.
 
-Reach me at kywoj [at] umich.edu.
+Reach me at kyliewojciechowski [at] gmail.com.
 
 ✨ This portfolio was built with [Jekyll](https://jekyllrb.com/)'s Index theme and deployed on GitHub (obviously)!
