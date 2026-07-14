@@ -22,4 +22,4 @@ I’m based in Michigan.
 
 **Areas of focus:** UX strategy · User research · Business analysis · Product discovery · Process improvement · Workshop facilitation · Team development · Technical communication
 
-Reach me at **kywoj [at] umich.edu** or connect with me on LinkedIn.
+Reach me at **kyliewojciechowski [at] gmail.com** or connect with me on LinkedIn.
