@@ -153,7 +153,7 @@ Outstanding Program Graduate
 ## Credentials
 
 * Entry Certificate in Business Analysis, International Institute of Business Analysis
-* Nielsen Norman Group UX Management Specialty, in progress
+* UX Management Certificate, Nielsen Norman Group 
 
 ---
 
