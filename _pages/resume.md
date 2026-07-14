@@ -9,7 +9,7 @@ featured_image:
 
 Michigan
 
-[Email](mailto:kywoj@umich.edu) · [LinkedIn](https://www.linkedin.com/in/kyliewojciechowski/) · [Portfolio](https://kywoj.com)
+[Email](mailto:kyliewojciechowski@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kyliewojciechowski/) · [Portfolio](https://kywoj.com)
 
 [Download my résumé as a PDF]({{ RESUME_PDF_URL }})
 
