@@ -5,7 +5,7 @@ featured_image:
 ---
 # Kylie Wojciechowski
 
-## UX & Experience Strategy Leader | Research, Business Analysis & Digital Transformation
+**UX & Experience Strategy Leader | Research, Business Analysis & Digital Transformation**
 
 Michigan
 
