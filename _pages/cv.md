@@ -7,7 +7,7 @@ featured_image:
 
 ## Kylie Wojciechowski
 
-**Adjunct Faculty | Professional & Technical Writing | UX Research & Communication**
+**Adjunct Faculty, Professional & Technical Writing, UX Research & Communication**
 
 Michigan
 [Email](mailto:kyliewojciechowski@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kyliewojciechowski/) · [Portfolio](https://kywoj.com)
