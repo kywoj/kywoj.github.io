@@ -3,162 +3,175 @@ title: Resume
 subtitle:
 featured_image:
 ---
-<a href="{{ site.url }}/assets/Wojciechowski_Resume.pdf" class="button button--small">Download PDF</a><br/>
-<small>PDF last updated Nov. 2021</small><br/>
+# Kylie Wojciechowski
 
+**UX & Experience Strategy Leader | Research, Business Analysis & Digital Transformation**
 
-### Education
-**Master of Business Administration**<br/>
-Fairleigh Dickinson University, December 2027<br/>
+Michigan
+[Email](mailto:kywoj@umich.edu) · [LinkedIn](https://www.linkedin.com/in/kyliewojciechowski/) · [Portfolio](https://kywoj.com)
 
+[Download my résumé as a PDF]({{ RESUME_PDF_URL }})
 
-<br/>**Master of Science in Information**<br/>
-UX Research & Design<br/>
-University of Michigan, May 2019<br/>
+---
 
+## Profile
 
-<br/>**Bachelor of Arts in Professional & Technical Writing**<br> 
-_magna cum laude_<br/>
-Saginaw Valley State University, May 2017<br/>
+I am a UX and experience strategy leader with more than seven years of experience turning ambiguous, cross-functional problems into aligned product decisions and actionable plans.
 
-<br/>
+My work combines user research, business analysis, process and service design, facilitation, and people leadership to shape product direction, improve complex workflows, and strengthen organizational UX capabilities. I have partnered with product, engineering, scientific, regulatory, and business stakeholders across pharmaceutical research and development, healthcare, higher education, and enterprise technology.
 
-### Experience
-**Associate Director** (Nov. 2025 - Present)<br/>
-**Senior User Researcher** (Nov. 2022 - Nov. 2025)<br/>
-**User Researcher (Contract)** (Nov. 2021 - Nov. 2022)<br/>
-Merck<br/>
+## Areas of Expertise
 
-  
-<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)<br/>
-**UX Researcher** (Jun. 2019 – Oct. 2020)<br/>
-CVS Health: Cumberland, RI<br/>
-  * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
-  * Planned and conducted generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
-  * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
+* UX and experience strategy
+* Product discovery
+* User research and ResearchOps
+* Business analysis and requirements
+* Process mapping and service design
+* Roadmap development and prioritization
+* Stakeholder alignment and workshop facilitation
+* Organizational capability building
+* Change, adoption, and digital transformation
+* People leadership and coaching
+* Executive and technical communication
 
+---
 
-<br/>**Research Assistant** (Mar. 2019 – May 2020)<br/>
-U-M School of Information: Ann Arbor, MI<br/>
-  * Collaborated with three U-M professors to facilitate more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss.
-  * Conducted thematic analysis and coded interview transcripts in Dedoose.
-  * Contributed to academic articles about how technology can better support marginalized people who experience pregnancy loss.
+## Professional Experience
 
-  
-<br/>**Behavioral Science Fellow** (Sept. 2018 – May 2019)<br/>
-U-M Office of Academic Innovation: Ann Arbor, MI<br/>
-  * Designed and executed surveys, interviews, and usability studies of student tools in the Center’s portfolio, including eCoach, Tandem and Sage.
-  * Analyzed and synthesized learnings and presented findings and actionable recommendations to design and development teams.
+### Merck
 
-<br/>**User Experience Research & Design Intern** (May 2018 – Aug. 2018)<br/>
-Dassault Systèmes: Johnston, RI<br/>
-  * Contributed to brand UX specifications and guidelines.
-  * Developed templates for task analysis.
-  * Designed mixed-mode user surveys.
-  * Planned in-person and remote usability studies.
+**Merck Research Laboratories IT**
 
-<br/>**User Experience Research Intern** (Oct. 2017 – May 2019)<br/>
-U-M Office of Enrollment Management: Ann Arbor, MI <br/>
- * Interviewed stakeholders across the university and engaged them in participatory design activities to learn how data related to recruitment, applications, and student events were managed.
- * Analyzed and synthesized learnings and presented findings and actionable recommendations to stakeholders to facilitate data-informed decisions regarding the adoption and implementation of CRM tools.
+**Associate Director, User Experience**
+*November 2025–Present*
 
-<br/>**Instructional Design Fellow** (Oct. 2017 – Apr. 2018)<br/>
-Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
-  * Developed course modules according to Universal Design principles.
-  * Conducted focus groups and usability tests.
+**Senior User Researcher**
+*November 2022–November 2025*
 
-<br/>**Information Management Specialist** (Jul. 2016 – Aug. 2017)<br/>
-The Dow Chemical Company: Midland, MI <br/>
-  * Distilled 150+ complex work processes modules into instructional documentation in accordance with corporate and functional standards.
-  * Collaborated with content owners and SMEs in cross-functional teams to develop, edit, test, and maintain periodic content updates to multi-tenant intranet sites.
-  * Implemented a streamlined navigational structure for the Enterprise Data Management intranet site, reducing more than 75 redundant pages and improving efficiency of user tasks.
+**Contract User Researcher**
+*November 2021–November 2022*
 
-<br/>**Junior Usability Researcher** (Jan. 2016 – Apr. 2017)<br/>
-Center for Usability Studies and Universal Design: University Center, MI <br/>
-  * Led meetings to gauge client needs and clarify system users and goals.
-  * Planned and conducted appropriate, multi-modal studies and evaluations.
-  * Presented findings and subsequent recommendations to clients.
+* Lead UX strategy, research, business analysis, and design initiatives for digital products and workflows supporting scientists and research and development teams.
+* Translate complex user, business, and technical needs into product direction, requirements, priorities, and actionable recommendations.
+* Manage and mentor UX practitioners while aligning research and design work with product roadmaps, delivery constraints, organizational priorities, and desired outcomes.
+* Partner with product, engineering, scientific, regulatory, and business leaders to frame ambiguous problems, define success criteria, identify risks and dependencies, and support evidence-based decisions.
+* Facilitate stakeholder interviews, collaborative workshops, and current- and future-state process-mapping activities.
+* Lead discovery and roadmap initiatives, converting stakeholder needs into a shared vision, prioritized opportunities, and a clearer path from insight to execution.
+* Strengthen UX maturity through reusable methods, learning resources, coaching, and cross-functional practices that improve consistency and collaboration.
 
-<br/>
+### CVS Health
 
-### Projects
-**UX Researcher, Writer, & Designer** (Jan. 2019 – May 2019)<br/>
-<a href="{{ site.url }}/project/expectant">Expectant</a><br/>
-* Conducted secondary research, competitive feature analyses, and interviews to inform design and content decisions for an app that helps people tell their pregnancy stories through directed journaling and narrative visualization.
+**Senior UX Researcher**
+*October 2020–November 2021*
 
-<br/>**UX Researcher** (Jan. 2018 – Apr. 2018)<br/>
-<a href="{{ site.url }}/project/my-dream-team">My Dream Team</a> with SONIC Research Group @ Northwestern University<br/>
-  * Planned and launched a series of research studies on a team-formation web app, including interviews, competitive analyses, surveys, heuristic evaluations, and usability tests.
+**UX Researcher**
+*June 2019–October 2020*
 
-<br/>**Service Designer** (Aug. 2017 – Dec. 2017)<br/>
-<a href="{{ site.url }}/project/flint-public-library">Flint Public Library</a><br/>
-  * Designed a series of contextual inquiries and developed a comprehensive method of collecting usage statistics and feedback from patrons.
+* Defined, scoped, and prioritized research objectives for eight agile teams during Program Increment planning.
+* Aligned research capacity and priorities with product strategy, delivery needs, and organizational goals.
+* Led generative and evaluative research—including interviews and task-based usability testing—to assess current experiences and guide future-state planning for MinuteClinic and HealthHUB products.
+* Established and refined ResearchOps processes, tools, and inclusive research practices to improve the efficiency, consistency, and scalability of research.
 
-<br/>
+### University of Michigan
 
-### Presentations
-**Wojciechowski, K.** (2025, Sept.) From insights to impact: Lessons learned from doing business analysis as a UX practitioner. Presented at the Pistoia Alliance UX for Life Sciences conference at Merck campus in Rahway, NJ.
+**Research Assistant, School of Information**
+*March 2019–May 2020*
 
-Pace, D., **Wojciechowski, K.**, & Yerramilli, S. (2024, Oct.). Integrating UX into GenAI innovation: Case study of the Merck Research Labs UX Team's Impact. Presented at the Pistoia Alliance UX for Life Sciences conference at Novartis campus in Basel, Switzerland.
+* Partnered with three faculty researchers to conduct more than 20 in-depth interviews examining how technology supports LGBTQ+ individuals who experienced pregnancy loss.
+* Coded and analyzed qualitative interview data in Dedoose, identifying themes related to information seeking, online communities, and access to support.
+* Contributed research findings to a peer-reviewed publication in *ACM Transactions on Computer-Human Interaction*.
 
-**Wojciechowski, K.** (2019, Apr.). From quick findings to formal reports: When and why to use which in user & design research. Presented at the Academic Innovation Student Showcase in Ann Arbor, MI.
+**Behavioral Science Fellow, Center for Academic Innovation**
+*September 2018–May 2019*
 
-Desai, M., Niu, S., Tambala, H., **Wojciechowski, K.**, & Xu, Y. (2019, Apr.). CUTgroup Detroit: Testing the Detroit Assistant tool. Presented at the UMSI Student Exposition in Ann Arbor, MI.
+* Collaborated with faculty members and product teams on student-facing educational technology products.
+* Planned and conducted surveys, interviews, and usability studies for products including eCoach, Tandem, and Sage.
+* Analyzed research findings and translated insights into actionable recommendations for design and development teams.
 
-Jessamy, C., Nash, D., O'Sullivan, K., & **Wojciechowski, K.** (2019, Apr.). Expectant: A mobile app that helps you tell your pregnancy story. Presented at the UMSI Student Exposition in Ann Arbor, MI.
+**UX Research Intern, Office of Enrollment Management**
+*October 2017–May 2019*
 
-Baranek, T., Kloc, M., & **Wojciechowski, K.** (2019, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+* Led stakeholder interviews and participatory-design activities to understand recruitment, application, and event-data workflows.
+* Synthesized findings to support decisions about customer relationship management technology adoption and implementation.
 
-**Wojciechowski, K.** (2018, Sept.). Words as material, writing as interfacing: Observations & a call to action from the middle. Keynote presented at Corridors (the Great Lakes Writing and Rhetoric Conference) in University Center, MI.
+### Dassault Systèmes
 
-**Wojciechowski, K.** & Wong, N. (2018, May). [Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules](http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf). Presented at a meeting of LOEX in Houston, TX.
+**UX Research and Design Intern**
+*May 2018–August 2018*
 
-Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+* Supported the development of brand UX guidelines and task-analysis standards.
+* Designed surveys and planned in-person and remote usability studies for enterprise software experiences.
 
-**Wojciechowski, K.** (2018, Mar.). Designing for somebody: How to truly know your users & what they do. Presented at MidCamp in Chicago, IL.
+### The Dow Chemical Company
 
-**Wojciechowski, K.** (2017, Mar.). Navigating students’ experiences with WCONLINE®: Preliminary results and recommendations of a usability study of the WCONLINE® platform. Presented at a meeting of the East Central Writing Centers Association in Dowagiac, MI.
+**Information Management Specialist**
+*July 2016–August 2017*
 
-**Wojciechowski, K.** (2016, Oct.). Advocating for student-users: A template for conducting small-scale usability research in the writing center. Presented at a meeting of the Michigan Writing Centers Association in Warren, MI.
+* Transformed more than 150 complex work-process modules into clear, standards-aligned instructional content.
+* Partnered with subject-matter experts and cross-functional teams to develop, test, revise, and maintain enterprise information.
+* Redesigned an intranet information architecture, eliminating more than 75 redundant pages and simplifying navigation for internal users.
 
-<br/>
+---
 
-### Skills
-#### Research
-*Execution methods*:
-  * Card sorts
-  * Competitive analyses
-  * Contextual inquiries
-  * Heuristic evaluations
-  * Surveys
-  * Task analyses
-  * Tree tests
-  * Usability tests 
-  * User interviews
-  * Workshops
- 
-*Synthesis methods*:
-  * Affinity diagrams
-  * Flow models
-  * Thematic analysis
-  * User personas and stories
+## Additional Leadership Experience
 
-#### Design
-  * Interaction & experience design
-  * Prototyping (High- and low-fidelity)
-  * Storyboarding
-  * Wireframing
+### Saginaw Valley State University
 
-#### Writing
-   * Content strategy
-   * Instructional documentation
-   * Microcopy and UX writing
-   * News reporting
-   * Technical writing and editing
+**Department of Rhetoric and Professional Writing**
 
-#### Programming
-  * HTML5 and CSS3
-  * Javascript and Typescript
-  * PHP
-  * Python 3
-  * SQLite
+**Adjunct Faculty**
+*January 2023–Present*
+
+* Teach undergraduate courses in workplace writing, technical reports, proposals, grantseeking, and professional development.
+* Design applied learning experiences that connect communication principles with current workplace practices.
+* Provide structured, individualized feedback to help students develop professional writing, revision, and information-design skills.
+
+---
+
+## Education
+
+### Fairleigh Dickinson University
+
+**Master of Business Administration**
+*Expected December 2027*
+
+### University of Michigan
+
+**Master of Science in Information**
+*Specialization in UX Research and Design, May 2019*
+
+### Saginaw Valley State University
+
+**Bachelor of Arts in Professional and Technical Writing, magna cum laude**
+*May 2017*
+
+Outstanding Program Graduate
+
+---
+
+## Credentials
+
+* Entry Certificate in Business Analysis, International Institute of Business Analysis
+* Nielsen Norman Group UX Management Specialty, in progress
+
+---
+
+## Selected Presentations and Publications
+
+* **“From Insights to Impact: Lessons Learned from Doing Business Analysis as a UX Practitioner.”** Pistoia Alliance UX for Life Sciences Conference, 2025.
+* **“Integrating UX into GenAI Innovation.”** Pistoia Alliance UX for Life Sciences Conference, 2024.
+* Co-author of research published in *ACM Transactions on Computer-Human Interaction*, 2021.
+
+---
+
+## Methods
+
+User interviews · Usability testing · Surveys · Focus groups · Thematic analysis · Process mapping · Journey mapping · Workshop facilitation · Heuristic evaluation · Accessibility review · Requirements definition · Research synthesis
+
+## Tools
+
+Figma · Miro · MURAL · Tableau · Dedoose · SQL · Streamlit · Microsoft 365 · Google Workspace · Visio · draw.io · Canva · HTML and CSS
+
+---
+
+*Last updated July 2026.*
