@@ -16,7 +16,7 @@ menu_settings:
     - title: 'Resume'
       url: '/resume'
     - title: 'Teaching & CV'
-      url: '/teaching'
+      url: '/cv'
 
 
 grid_settings:
