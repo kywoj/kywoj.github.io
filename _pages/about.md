@@ -15,7 +15,7 @@ That interest eventually led me to the University of Michigan School of Informat
 
 I also teach professional and technical writing as an adjunct faculty member at Saginaw Valley State University. Teaching keeps me connected to the fundamentals of clear communication, accessible information, thoughtful feedback, and continuous learning—all of which influence how I lead and collaborate in my corporate work.
 
-I hold a Master of Science in Information from the University of Michigan and a Bachelor of Arts in Professional and Technical Writing from Saginaw Valley State University. I am also currently completing my MBA.
+I hold a Master of Science in Information from the University of Michigan and a Bachelor of Arts in Professional and Technical Writing from Saginaw Valley State University. I am also currently completing my MBA at Fairleigh Dickinson University.
 
 I’m based in Michigan.
 
