@@ -134,16 +134,19 @@ My work combines user research, business analysis, process and service design, f
 ### Fairleigh Dickinson University
 
 **Master of Business Administration**
+
 *Expected December 2027*
 
 ### University of Michigan
 
 **Master of Science in Information**
+
 *Specialization in UX Research and Design, May 2019*
 
 ### Saginaw Valley State University
 
-**Bachelor of Arts in Professional and Technical Writing, magna cum laude**
+**Bachelor of Arts in Professional and Technical Writing**, magna cum laude
+
 *May 2017*
 
 Outstanding Program Graduate
