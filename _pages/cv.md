@@ -3,226 +3,306 @@ title: CV
 subtitle: 
 featured_image:
 ---
+# Teaching & Academic CV
 
-### Experience
-**Adjunct Faculty**<br/>
-Saginaw Valley State University: University Center, MI<br/>
-Jan. 2023 – Present<br/>
-  * Courses taught: RPW 225 - Professional Development in PTW, RPW 300 - Writing in the Professions, RPW 304 - Technical Report Writing, RPW 336 - Grantseeking & Proposal Writing
+## Kylie Wojciechowski
 
+**Adjunct Faculty | Professional & Technical Writing | UX Research & Communication**
 
-<br/>**Associate Director** (Nov. 2025 - Present)<br/>
-**Senior User Researcher** (Nov. 2022 - Nov. 2025)<br/>
-**User Researcher (Contract)** (Nov. 2021 - Nov. 2022)<br/>
-Merck<br/>
+Michigan
+[Email](mailto:kyliewojciechowski@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kyliewojciechowski/) · [Portfolio](https://kywoj.com)
 
-  
-<br/>**Senior UX Researcher** (Oct. 2020 – Nov. 2021)<br/>
-**UX Researcher** (Jun. 2019 – Oct. 2020)<br/>
-CVS Health: Cumberland, RI<br/>
-  * Articulated, scoped, and prioritized research objectives for eight agile teams during Program Increment (PI) planning.
-  * Planned and conducted generative and evaluative qualitative studies, primarily user interviews and task-based usability tests, to help partners and stakeholders learn about current-state experiences and begin to strategize for future-state products in the product areas of MinuteClinic and HealthHUB.
-  * Developed departmental research processes and practices, especially regarding ResearchOps (tools) and inclusion and diversity.
+[Download Adjunct Résumé]({{ ADJUNCT_RESUME_URL }}) · [Download Full Academic CV]({{ ACADEMIC_CV_URL }})
 
+---
 
-<br/>**Research Assistant** (Mar. 2019 – May 2020)<br/>
-U-M School of Information: Ann Arbor, MI<br/>
-  * Collaborated with three U-M professors to facilitate more than 20 ninety-minute interviews with LGBTQ+ people who had experienced pregnancy loss.
-  * Conducted thematic analysis and coded interview transcripts in Dedoose.
-  * Contributed to academic articles about how technology can better support marginalized people who experience pregnancy loss.
+## Teaching Profile
 
-  
-<br/>**Behavioral Science Fellow** (Sept. 2018 – May 2019)<br/>
-U-M Office of Academic Innovation: Ann Arbor, MI<br/>
-  * Designed and executed surveys, interviews, and usability studies of student tools in the Center’s portfolio, including eCoach, Tandem and Sage.
-  * Analyzed and synthesized learnings and presented findings and actionable recommendations to design and development teams.
+I am an adjunct faculty member and professional and technical communication practitioner with experience teaching undergraduate courses in workplace writing, technical reports, proposals, grantseeking, and professional development.
 
-<br/>**User Experience Research & Design Intern** (May 2018 – Aug. 2018)<br/>
-Dassault Systèmes: Johnston, RI<br/>
-  * Contributed to brand UX specifications and guidelines.
-  * Developed templates for task analysis.
-  * Designed mixed-mode user surveys.
-  * Planned in-person and remote usability studies.
+My teaching emphasizes applied projects, scaffolded assignments, accessible course materials, revision, individualized feedback, and connections between academic learning and current workplace practice. I aim to create an inclusive learning environment in which students understand expectations, see the relevance of their work, and have multiple opportunities to build confidence and improve.
 
-<br/>**User Experience Research Intern** (Oct. 2017 – May 2019)<br/>
-U-M Office of Enrollment Management: Ann Arbor, MI <br/>
- * Interviewed stakeholders across the university and engaged them in participatory design activities to learn how data related to recruitment, applications, and student events were managed.
- * Analyzed and synthesized learnings and presented findings and actionable recommendations to stakeholders to facilitate data-informed decisions regarding the adoption and implementation of CRM tools.
+My professional background in UX strategy, user research, business analysis, and technical communication allows me to bring current examples of audience analysis, usability, information design, collaboration, research, and ethical communication into the classroom.
 
-<br/>**Instructional Design Fellow** (Oct. 2017 – Apr. 2018) <br/>
-Michigan Library Fellows Engagement Program: Ann Arbor, MI <br/>
-  * Developed course modules according to Universal Design principles.
-  * Conducted focus groups and usability tests.
+---
 
-<br/>**Information Management Specialist** (Jul. 2016 – Aug. 2017)<br/>
-The Dow Chemical Company: Midland, MI <br/>
-  * Distilled 150+ complex work processes modules into instructional documentation in accordance with corporate and functional standards.
-  * Collaborated with content owners and SMEs in cross-functional teams to develop, edit, test, and maintain periodic content updates to multi-tenant intranet sites.
-  * Implemented a streamlined navigational structure for the Enterprise Data Management intranet site, reducing more than 75 redundant pages and improving efficiency of user tasks.
+## Teaching Experience
 
-<br/>**Web Editor** (July 2016 – Apr. 2017)<br/>
-_The Valley Vanguard_: University Center, MI <br/>
-  * Strategically managed newspaper’s website and social media accounts, increasing engagement by 15%.
+### Saginaw Valley State University
 
-<br/>**Junior Usability Researcher** (Jan. 2016 – Apr. 2017)<br/>
-Center for Usability Studies and Universal Design: University Center, MI <br/>
-  * Led meetings to gauge client needs and clarify system users and goals.
-  * Planned and conducted appropriate, multi-modal studies and evaluations.
-  * Presented findings and subsequent recommendations to clients.
+**Department of Rhetoric and Professional Writing**
 
-<br/>**Editor-in-chief** (Apr. 2015 – July 2016)<br/>
-_The Valley Vanguard_: University Center, MI <br/>
-  * Led a 35-person staff to ensure timely production of weekly 6-page newspaper.
-  * Created internal style reference guide for reporters, reducing time spent editing by 5+ hours per week.
-  * Edited articles and columns for accuracy, adherence to internal and Associated Press guidelines, and clarity.
-  * Designed cohesive double-page spreads for digital and print publication.
+**Adjunct Faculty**
+*January 2023–Present*
 
-<br/>**News Editor** (Apr. 2014 – Apr. 2015)<br/>
-_The Valley Vanguard_: University Center, MI <br/>
-  * Edited articles and columns for accuracy, adherence to internal and Associated Press guidelines, and clarity.
-  * Designed cohesive double-page spreads for digital and print publication.
+* Teach asynchronous online undergraduate courses in professional and technical writing.
+* Develop course materials, assignment sequences, rubrics, instructional resources, and learning activities aligned with course outcomes.
+* Use scaffolded projects, peer review, revision, and reflection to help students develop professional writing and problem-solving skills.
+* Provide substantive, individualized feedback on student writing, research, document design, and professional portfolios.
+* Connect course concepts with current workplace practices in technical communication, UX, business analysis, and digital collaboration.
+* Support student success through clear expectations, accessible materials, responsive communication, and flexible pathways for engaging with course content.
 
-<br/>**General Reporter** (Aug. 2013 – Apr. 2014)<br/>
-_The Valley Vanguard_: University Center, MI <br/>
-  * Conducted interviews and gathered information to write [articles of interest](http://www.valleyvanguardonline.com/author/kylie-wojciechowski/) to the campus community.
-  * Awarded “Best Lead” and “Best Police Brief” for the 2013-14 AY by editorial staff.
+---
 
-<br/>**Senior Tutor** (Jan. 2013 – Apr. 2017)<br/>
-The Diane Boehm Writing Center: University Center, MI <br/>
-  * Assisted more than 1,000 undergraduate, graduate, and English as a Second Language (ESL) students with college writing assignments in face-to-face and online tutorial sessions, with 98% of students rating my abilities as “excellent” or “good”.
-  * Developed a <a href="https://kywoj.com/mla8/index.html">resource</a> to explain changes made to formatting and citation styles in the 8th edition of MLA, which has since been used by students, faculty, and other writing centers across the country.
-  * Awarded the Mayme Hamilton Award for Excellence in Tutoring (April 2017).
-  * Strategically managed the Center’s social media presence across Facebook and Twitter via Hootsuite.
-  * Led more than forty 45-minute Writing Center orientation sessions for nearly 600 composition students.
-  * Served as a formal mentor to novice tutors by providing knowledge, support, and resources.
-  * Secured funding to travel to the International Writing Centers Association Conference (Fall 2014)
-  * Wrote proposal and secured I.R.B. (Institutional Research Board) approval to conduct international research on writing center tutors’ mental health (Winter 2014).
+## Courses Taught
 
+### RPW 225: Professional Development in Professional and Technical Writing
 
-<br/>
+Guides students in developing professional identities and preparing for internships, employment, and continued professional growth.
 
-### Education
-**Master of Business Administration**<br/>
-Fairleigh Dickinson University, December 2027
+Coursework includes:
 
-<br/>**Master of Science in Information**<br/>
-UX Research & Design<br/>
-University of Michigan, May 2019
+* Résumés and application materials
+* Professional portfolios and case studies
+* Professional biographies and online presence
+* Career research and professional networking
+* Reflection on skills, values, and career goals
 
-<br/>**Bachelor of Arts in Professional & Technical Writing**<br/>
-_magna cum laude_<br/>
-Saginaw Valley State University, May 2017<br/>
-Honors thesis: <a href="{{ site.url }}/assets/Wojciechowski-BeyondAnecdotesDisciplinaryLore.pdf">Beyond Anecdotes and Disciplinary Lore: The Case for Usability Research as ‘RAD’ in Writing Center Scholarship</a>
+### RPW 300: Writing in the Professions
 
+Introduces students from a variety of majors to workplace communication practices and audience-centered writing.
 
-<br/>
+Coursework includes:
 
-### Other Involvements
+* Professional correspondence
+* Workplace genres
+* Audience and purpose analysis
+* Collaborative writing
+* Research and source integration
+* Ethical and inclusive communication
 
+### RPW 304: Technical Report Writing
 
-| Role | Organization | Start Date | End Date |
-|------------------------------------|------------------------------------------------------|----------------------| ----------------------|
-| Researcher | CUTgroup Detroit | Mar. 2019 | Apr. 2019 |
-| Local Organizer | Ann Arbor World Information Architecture Day | Oct. 2018 | Feb. 2019 |
-| Local Volunteer | Ann Arbor World Information Architecture Day | Oct. 2017 | Feb. 2018 |
-| Member | Student Organization for Computer-Human Interaction | Aug. 2017 | May 2019 |
-| Steering Committee Volunteer | SVSU Human Library | Feb. 2017 | Apr. 2017 |
-| Publication Designer | Friends of the Bay City State Recreation Area | Oct. 2016 | Jan. 2017 |
-| President | SVSU Association of Professional & Technical Writers | Aug. 2016 | May 2017 |
-| Tutor | Saginaw Community Writing Center | June 2016 | Aug. 2016 |
-| Content Writing Intern | Cadmium Design Studios | May 2016 | Aug. 2016 |
-| Publication Intern | SVSU Office of International & Advanced Studies | Jan. 2016 | May 2016 |
-| Member | SVSU Writing Center Strategic Planning Committee | Jan. 2016 | Feb. 2016 |
-| Technical & Content Writing Intern | Cardinal Solutions | Aug. 2015 | Apr. 2017 |
-| Assistant Editor | _Writing@SVSU_ | June 2015 | Apr. 2017 |
-| Technical Writing Intern | Altair Engineering | June 2015 | Aug. 2015 |
-| Member | SVSU Professional Journalistic Practices Committee | Apr. 2015 | July 2016 |
-| Volunteer | Saginaw High ACT Writing Workshop | Feb. 2015 | Mar. 2015
-| Program Coordinator | TEDxSVSU | Jan. 2015 | Sept. 2016 |
-| Social Media Coordinator | SVSU Active Minds | Sept. 2014 | Dec. 2016 |
-| Editor | _The Grassroots Writing Research Journal_ | June 2014 | Dec. 2015 |
-| Member | Donna J. Roberts Competitive Fellowship | May 2014 | May 2015 |
-| Volunteer | Living Through Literacy | May 2013 | Aug. 2013 |
-| Member | Leopold J. Kantzler Endowed Leadership Fellowship | May 2012 | May 2016 |
-| Member | SVSU Honors Program | May 2012 | May 2017 |
+Focuses on researching, planning, writing, and designing substantial analytical and recommendation reports.
 
-<br/>
+Coursework includes:
 
+* Proposal development
+* Primary and secondary research
+* Audience analysis
+* Data presentation and information design
+* Recommendation reports
+* Revision and document usability
 
-### Recognition & Awards
+### RPW 336: Grantseeking and Proposal Writing
 
-| Award | Date |
-|---------------------------------------------------------------------------------|-------------------|
-| Faculty Choice Award, UMSI Student Exposition | Apr. 2019 |
-| Outstanding Graduate in Professional & Technical Writing Program | May 2017 |
-| Mayme Hamilton Award for Excellence in Tutoring | Apr. 2017 |
-| Braun Award for Writing Excellence in the College of Arts & Behavioral Sciences | Apr. 2017 |
-| Diane Boehm Writing Award for ePortfolios | Apr. 2017 |
-| MiWCA to ECWCA Scholarship | Mar. 2017 |
-| Illinois State University Writing Research Scholarship | Aug. 2013 |
-| Braun Award for Writing Excellence in General Education | Mar. 2013 |
-| John W. & Rose E. Watson Foundation Scholarship | May 2012 |
-| SVSU President’s (Full) Scholarship | May 2012 |
-| Patricia M. Scholarship of the Bay Community Foundation | May 2012 |
-| Monsignor Forbes Scholarship | May 2012 |
-| Morning Rotary Club Scholarship | May 2012 |
+Introduces students to grant research, persuasive proposal development, and communication with nonprofit and organizational stakeholders.
 
-<br/>
+Coursework includes:
 
-### Presentations
-**Wojciechowski, K.** (2025, Sept.) From insights to impact: Lessons learned from doing business analysis as a UX practitioner. Presented at the Pistoia Alliance UX for Life Sciences conference at Merck campus in Rahway, NJ.
+* Funding research
+* Needs statements
+* Goals, objectives, and evaluation plans
+* Project descriptions
+* Budgets and supporting materials
+* Complete grant proposals
 
-Pace, D., **Wojciechowski, K.**, & Yerramilli, S. (2024, Oct.). Integrating UX into GenAI innovation: Case study of the Merck Research Labs UX Team's Impact. Presented at the Pistoia Alliance UX for Life Sciences conference at Novartis campus in Basel, Switzerland.
+---
 
-**Wojciechowski, K.** (2019, Apr.). From quick findings to formal reports: When and why to use which in user & design research. Presented at the Academic Innovation Student Showcase in Ann Arbor, MI.
+## Related Teaching, Tutoring & Instructional Design Experience
 
-Desai, M., Niu, S., Tambala, H., **Wojciechowski, K.**, & Xu, Y. (2019, Apr.). CUTgroup Detroit: Testing the Detroit Assistant tool. Presented at the UMSI Student Exposition in Ann Arbor, MI.
+### Diane Boehm Writing Center
 
-Jessamy, C., Nash, D., O'Sullivan, K., & **Wojciechowski, K.** (2019, Apr.). Expectant: A mobile app that helps you tell your pregnancy story. Presented at the UMSI Student Exposition in Ann Arbor, MI.
+**Senior Tutor**
+*January 2013–April 2017*
 
-Baranek, T., Kloc, M., & **Wojciechowski, K.** (2019, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+* Conducted more than 1,000 face-to-face and online writing tutorials with undergraduate, graduate, multilingual, and English-language-learning students.
+* Supported students at all stages of the writing process, including brainstorming, organization, research, revision, documentation, and editing.
+* Earned positive or excellent ratings from 98% of surveyed students.
+* Led more than 40 writing-center orientation sessions for nearly 600 composition students.
+* Mentored novice tutors by providing guidance, feedback, resources, and professional support.
+* Developed a resource explaining changes in MLA’s eighth edition that was used by students, faculty members, and writing centers across the country.
+* Received the Mayme Hamilton Award for Excellence in Tutoring.
 
-**Wojciechowski, K.** (2018, Sept.). Words as material, writing as interfacing: Observations & a call to action from the middle. Keynote presented at Corridors (the Great Lakes Writing and Rhetoric Conference) in University Center, MI.
+### Michigan Library Fellows Engagement Program
 
-**Wojciechowski, K.** & Wong, N. (2018, May). [Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules](http://www.loexconference.org/2018/presentations/LOEX2018Poster_UniversityofMichigan.pdf). Presented at a meeting of LOEX in Houston, TX.
+**Instructional Design Fellow**
+*October 2017–April 2018*
 
-Bidwell, D., Scola, D., & **Wojciechowski, K.** (2018, Apr.). Alumni panel. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+* Developed online library-research modules using Universal Design principles.
+* Designed learning materials for delivery through the Canvas learning management system.
+* Conducted focus groups and usability studies to evaluate and improve instructional content.
+* Co-presented the project at the 2018 LOEX Conference.
 
-**Wojciechowski, K.** (2018, Mar.). Designing for somebody: How to truly know your users & what they do. Presented at MidCamp in Chicago, IL.
+### University of Michigan, Center for Academic Innovation
 
-**Wojciechowski, K.** (2017, Mar.). Navigating students’ experiences with WCONLINE®: Preliminary results and recommendations of a usability study of the WCONLINE® platform. Presented at a meeting of the East Central Writing Centers Association in Dowagiac, MI.
+**Behavioral Science Fellow**
+*September 2018–May 2019*
 
-**Wojciechowski, K.** (2016, Oct.). Advocating for student-users: A template for conducting small-scale usability research in the writing center. Presented at a meeting of the Michigan Writing Centers Association in Warren, MI.
+* Planned and conducted surveys, interviews, and usability studies of student-facing educational technology.
+* Evaluated products including eCoach, Tandem, and Sage.
+* Translated findings into actionable recommendations for faculty, design, and development teams.
 
-Currie, K., Millard, R. & **Wojciechowski, K.** (2016, Oct.). ‘The ethical responsibility’: Crafting, implementing, and assessing a writing center’s strategic plan. Presented at a meeting of the Michigan Writing Centers Association in Warren, MI.
+---
 
-Currie, K., Millard, R. & **Wojciechowski, K.** (2016, Oct.). To boldly go where no writing center has gone before: Crafting and implementing a writing center’s strategic plan. Presented at a meeting of the International Writing Centers Association in Denver, CO.
+## Education
 
-Defever, L., Jones, P. & **Wojciechowski, K.** (2016, Apr.). Finding your journalistic niche. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+### Fairleigh Dickinson University
 
-Hadd, C. & **Wojciechowski, K.** (2016, Apr.). Crossing disciplines, crossing institutional boundaries: An argument for inter-disciplinary courses at SVSU. Presented at a meeting of the Association of Professional & Technical Writers in University Center, MI.
+**Master of Business Administration**
 
-Giroux, C., Raica-Klotz, H., Rivet, B. & **Wojciechowski, K.** (2016, Mar.). Multiple modes, mediums, and literacies, but one mission: Strategic planning for your writing center. Presented at a meeting of the East Central Writing Centers Association in Alliance, OH.
+*Expected December 2027*
 
-Degner, H. & **Wojciechowski, K.** (2015, Apr.). ‘Our field of dreams’: A model for supporting undergraduate tutor research. Presented at a meeting of the East Central Writing Centers Association in Notre Dame, IN.
+### University of Michigan
 
-Degner, H. & **Wojciechowski, K.** (2014, Oct.). On the other side of the table: When a tutor has a learning disability or mental health illness, what happens then? Presented at a meeting of the Michigan Writing Centers Association in Lansing, MI.
+**Master of Science in Information**
 
-Degner, H. & **Wojciechowski, K.** (2014, Apr.). On the other side of the table: When a tutor has a learning disability or mental health illness, what happens then? Presented at a meeting of the East Central Writing Centers Association in Oxford, OH.
+*Specialization in UX Research and Design, May 2019*
 
-**Wojciechowski, K.** (2014, Mar.). Cross-cultural citation practices: Giving credit where credit is due. Presented at the Grassroots Writing Research Colloquium at Illinois State University in Normal, IL.
+### Saginaw Valley State University
 
-Degner, H. Jackson, S., Sterken, A. & **Wojciechowski, K.** (2013, Oct.). Riding the L to learning: Training new tutors to learn and grow in the writing center. Presented at a meeting of the Midwest Writing Centers Association in Skokie, IL.
+**Bachelor of Arts in Professional and Technical Writing**, magna cum laude
 
-<br/>
+*May 2017*
 
-### Publications
-Andalibi N., Lacombe-Duncan A., Roosevelt, L., **Wojciechowski, K.**, & Giniel, C. (2021). LGBTQ persons' use of online spaces to navigate conception, pregnancy, and pregnancy loss: An intersectional approach. _ACM Transactions on Computer-Human Interaction (TOCHI)._
+* Outstanding Graduate in Professional and Technical Writing
+* Honors Program graduate
+* Honors thesis: *Beyond Anecdotes and Disciplinary Lore: The Case for Usability Research as “RAD” in Writing Center Scholarship*
 
-Degner, H. Giroux, C., & **Wojciechowski, K.** (2015). [Opening closed doors: Creating a safe space for tutors struggling with mental health concerns or illnesses](http://www.praxisuwc.com/degner-et-al-131/). _Praxis, 13_(1).
+---
 
-**Wojciechowski, K.** (2015). [One of many: Examining and reconciling the ‘need to acquiesce’ in composition classrooms](http://isuwriting.com/wp-content/uploads/2015/06/One_of_Many.pdf). _The Grassroots Writing Research Journal, 5_(2).
+## Relevant Professional Experience
 
-**Wojciechowski, K.** (2014). [Eavesdropping on the conversation: Situating an undergraduate’s role within the scope of academic journals](http://isuwriting.com/wp-content/uploads/2015/03/Eavesdropping-on-the-Conversation.pdf). _The Grassroots Writing Research Journal, 5_(1).
+### Merck
 
-**Wojciechowski, K.** (2014). Home. _Cardinal Sins, 33_(2).
+**Merck Research Laboratories IT**
+
+**Associate Director, User Experience**
+*November 2025–Present*
+
+**Senior User Researcher**
+*November 2022–November 2025*
+
+**Contract User Researcher**
+*November 2021–November 2022*
+
+* Lead UX strategy, research, business analysis, and design initiatives for complex digital products and scientific workflows.
+* Manage and mentor UX practitioners and support the development of shared methods, learning resources, and professional capabilities.
+* Facilitate research, process analysis, and stakeholder-alignment activities involving scientific, technical, product, and business partners.
+* Translate complex findings into clear recommendations, requirements, roadmaps, and decision-making materials.
+
+### CVS Health
+
+**Senior UX Researcher**
+*October 2020–November 2021*
+
+**UX Researcher**
+*June 2019–October 2020*
+
+* Led generative and evaluative research for healthcare products and services.
+* Defined and prioritized research objectives for eight agile teams.
+* Developed ResearchOps practices supporting more consistent, inclusive, and scalable research.
+
+### University of Michigan, School of Information
+
+**Research Assistant**
+*March 2019–May 2020*
+
+* Partnered with three faculty researchers to conduct more than 20 in-depth interviews examining how technology supports LGBTQ+ individuals who experienced pregnancy loss.
+* Coded and analyzed qualitative interview data in Dedoose.
+* Contributed findings to a peer-reviewed publication in *ACM Transactions on Computer-Human Interaction*.
+
+### University of Michigan, Office of Enrollment Management
+
+**UX Research Intern**
+*October 2017–May 2019*
+
+* Conducted stakeholder interviews and participatory-design activities focused on university recruitment, application, and event-data workflows.
+* Synthesized findings to support decisions about customer relationship management technology adoption and implementation.
+
+### The Dow Chemical Company
+
+**Information Management Specialist**
+*July 2016–August 2017*
+
+* Transformed more than 150 complex work-process modules into clear instructional documentation.
+* Collaborated with subject-matter experts to develop, test, revise, and maintain enterprise content.
+* Redesigned an intranet information architecture and eliminated more than 75 redundant pages.
+
+---
+
+## Publications
+
+Andalibi, N., Lacombe-Duncan, A., Roosevelt, L., Wojciechowski, K., & Giniel, C. (2021). LGBTQ persons’ use of online spaces to navigate conception, pregnancy, and pregnancy loss: An intersectional approach. *ACM Transactions on Computer-Human Interaction*.
+
+Degner, H., Giroux, C., & Wojciechowski, K. (2015). Opening closed doors: Creating a safe space for tutors struggling with mental health concerns or illnesses. *Praxis: A Writing Center Journal, 13*(1).
+
+Wojciechowski, K. (2015). One of many: Examining and reconciling the “need to acquiesce” in composition classrooms. *The Grassroots Writing Research Journal, 5*(2).
+
+Wojciechowski, K. (2014). Eavesdropping on the conversation: Situating an undergraduate’s role within the scope of academic journals. *The Grassroots Writing Research Journal, 5*(1).
+
+Wojciechowski, K. (2014). Home. *Cardinal Sins, 33*(2).
+
+---
+
+## Selected Presentations
+
+Wojciechowski, K. (2025, September). *From insights to impact: Lessons learned from doing business analysis as a UX practitioner.* Pistoia Alliance UX for Life Sciences Conference, Rahway, New Jersey.
+
+Pace, D., Wojciechowski, K., & Yerramilli, S. (2024, October). *Integrating UX into GenAI innovation: Case study of the Merck Research Labs UX Team’s impact.* Pistoia Alliance UX for Life Sciences Conference, Basel, Switzerland.
+
+Wojciechowski, K. (2019, April). *From quick findings to formal reports: When and why to use which in user and design research.* Academic Innovation Student Showcase, Ann Arbor, Michigan.
+
+Wojciechowski, K. (2018, September). *Words as material, writing as interfacing: Observations and a call to action from the middle.* Keynote presented at Corridors: The Great Lakes Writing and Rhetoric Conference, University Center, Michigan.
+
+Wojciechowski, K., & Wong, N. (2018, May). *Using an LMS as a launchpad: Leveraging Canvas as a platform for library research learning modules.* LOEX Conference, Houston, Texas.
+
+Wojciechowski, K. (2018, March). *Designing for somebody: How to truly know your users and what they do.* MidCamp, Chicago, Illinois.
+
+Wojciechowski, K. (2017, March). *Navigating students’ experiences with WCONLINE: Preliminary results and recommendations of a usability study of the WCONLINE platform.* East Central Writing Centers Association Conference, Dowagiac, Michigan.
+
+Wojciechowski, K. (2016, October). *Advocating for student-users: A template for conducting small-scale usability research in the writing center.* Michigan Writing Centers Association Conference, Warren, Michigan.
+
+Currie, K., Millard, R., & Wojciechowski, K. (2016, October). *To boldly go where no writing center has gone before: Crafting and implementing a writing center’s strategic plan.* International Writing Centers Association Conference, Denver, Colorado.
+
+Degner, H., & Wojciechowski, K. (2015, April). *Our field of dreams: A model for supporting undergraduate tutor research.* East Central Writing Centers Association Conference, Notre Dame, Indiana.
+
+Degner, H., & Wojciechowski, K. (2014, October). *On the other side of the table: When a tutor has a learning disability or mental health illness, what happens then?* Michigan Writing Centers Association Conference, Lansing, Michigan.
+
+Wojciechowski, K. (2014, March). *Cross-cultural citation practices: Giving credit where credit is due.* Grassroots Writing Research Colloquium, Normal, Illinois.
+
+---
+
+## Honors & Awards
+
+* Faculty Choice Award, University of Michigan School of Information Student Exposition, 2019
+* Outstanding Graduate in Professional and Technical Writing, Saginaw Valley State University, 2017
+* Mayme Hamilton Award for Excellence in Tutoring, 2017
+* Braun Award for Writing Excellence in the College of Arts and Behavioral Sciences, 2017
+* Diane Boehm Writing Award for ePortfolios, 2017
+* Michigan Writing Centers Association to East Central Writing Centers Association Scholarship, 2017
+* Illinois State University Writing Research Scholarship, 2013
+* Braun Award for Writing Excellence in General Education, 2013
+* Saginaw Valley State University President’s Scholarship, 2012
+
+---
+
+## Academic Service & Professional Involvement
+
+### Leadership and Editorial Service
+
+* **President**, Association of Professional and Technical Writers, Saginaw Valley State University, 2016–2017
+* **Assistant Editor**, *Writing@SVSU*, 2015–2017
+* **Member**, Writing Center Strategic Planning Committee, Saginaw Valley State University, 2016
+* **Member**, Professional Journalistic Practices Committee, Saginaw Valley State University, 2015–2016
+* **Program Coordinator**, TEDxSVSU, 2015–2016
+* **Editor**, *The Grassroots Writing Research Journal*, 2014–2015
+
+### Research and Community Engagement
+
+* **Researcher**, CUTgroup Detroit, 2019
+* **Local Organizer**, Ann Arbor World Information Architecture Day, 2018–2019
+* **Steering Committee Volunteer**, Saginaw Valley State University Human Library, 2017
+* **Tutor**, Saginaw Community Writing Center, 2016
+* **Volunteer**, Saginaw High School ACT Writing Workshop, 2015
+* **Volunteer**, Living Through Literacy, 2013
+
+### Student and Professional Involvement
+
+* **Member**, Student Organization for Computer-Human Interaction, University of Michigan, 2017–2019
+* **Member**, Saginaw Valley State University Honors Program, 2012–2017
+* **Member**, Leopold J. Kantzler Endowed Leadership Fellowship, 2012–2016
+
+---
+
+*Last updated July 2026.*
